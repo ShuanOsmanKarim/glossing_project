@@ -1,0 +1,71 @@
+
+\ea \label{ZB.1}
+\textit{řoē je řoā yoe mē yoyč mē xizmetū šā ʕelādīnī, her ā šā ʕelādīne} \\ 
+\gll řo-ē je řo-ā yo-e m-ē yo=yč m-ē xizmet=ū šā ʕelādīn-ī her ā šā ʕelādīn=e \\ 
+ day\textsc{.m}\textsc{-dir}\textsc{.pl} from day\textsc{.m}\textsc{-obl}\textsc{.pl} one\textsc{.m}\textsc{-f} \textsc{ind-}come\textsc{.prs}\textsc{.3sg} one\textsc{.m}\textsc{=add} \textsc{ind-}come\textsc{.prs}\textsc{.3sg} service\textsc{.m}\textsc{\textsc{=ez.gen}} king\textsc{.m} \textsc{pn}\textsc{-obl}\textsc{.m} emph \textsc{dem.dist} king\textsc{.m} \textsc{pn}\textsc{=dem} \\ 
+\glt `Once,\footnote{Lit. One day of days.} a woman and a man\footnote{Lit. One (f.) came, one (m.) came.} came to the service of šā ʕalādīn, the same šā ʕalādīn.'
+\z 
+ 
+\ea \label{ZB.2}
+\textit{wiškesāɫī bo pēse īsey} \\ 
+\gll wiškesāɫī ∅-b-o pēse īse-ī \\ 
+ drought \textsc{ind-}be\textsc{.prs}\textsc{-3sg} like now\textsc{-obl}\textsc{.m} \\ 
+\glt `[This region] was in drought, like [it is] now.'
+\z 
+ 
+\ea \label{ZB.3}
+\textit{heywāndār bo} \\ 
+\gll heywāndār ∅-b-o \\ 
+ herdsman \textsc{ind-}be\textsc{.prs}\textsc{-3sg} \\ 
+\glt `He was a herdsman.'
+\z 
+ 
+\ea \label{ZB.4}
+\textit{mēnē qeredāx} \\ 
+\gll m-ē-nē qeredāx \\ 
+ \textsc{ind-}come\textsc{.prs}\textsc{-3pl} \textsc{pn} \\ 
+\glt `They (the man and his wife) came to Qaradagh.'
+\z 
+ 
+\ea \label{ZB.5}
+\textit{e čā xizone eškewtēwe heywāndāre heywānekeyš bero memliketē čoɫū} \\ 
+\gll e=čā ∅-xiz-one eškewte-ē-ewe heywāndār-e heywān-ekey=š ∅-ber-o memliket-ē čoɫ=ū \\ 
+ in=there \textsc{ind-}creep\textsc{-3sg} cave\textsc{.f}\textsc{-obl}\textsc{.f}\textsc{-indf} herdsman\textsc{-def} animal\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m}\textsc{=3sg} \textsc{ind-}take\textsc{.prs}\textsc{-3sg} country\textsc{.m}\textsc{-indf} deserted=and \\ 
+\glt `There, they crept into a cave. The herdsman took his animals to a deserted region.'
+\z 
+ 
+\ea \label{ZB.6}
+\textit{ā wextīekey čā nīšorew tā hāmin bo} \\ 
+\gll ā wext-ī-ekey čā ∅-nīš-o=re=o tā hāmin ∅-b-o \\ 
+ \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m} there \textsc{ind-}sit\textsc{.prs}\textsc{-3sg}\textsc{=\textsc{post}}\textsc{=compl} until summer\textsc{.m} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} \\ 
+\glt `Then, they settled there until the summer.'
+\z 
+ 
+\ea \label{ZB.7}
+\textit{ginmē dewrū hāminī wehārī temāmīyo} \\ 
+\gll ∅-gin-mē dewr=ū hāmin-ī wehār-ī temāmīye-o \\ 
+ \textsc{ind-}fall\textsc{.prs}\textsc{-1pl} around\textsc{\textsc{=ez.gen}} summer\textsc{.m}\textsc{-obl}\textsc{.m} spring\textsc{.m}\textsc{-obl}\textsc{.m} finish\textsc{.prs}\textsc{-3sg} \\ 
+\glt `It was\footnote{Lit. We fell} near the end of summer, [or] spring.'
+\z 
+ 
+\ea \label{ZB.8}
+\textit{mē šewē je šewā ženēweš bo wēšū kināčē ezemēč lāšo bo} \\ 
+\gll m-ē šewe-ē je šewe-ā ženī-ēwe=š ∅-b-o wē=š=ū kināčē ezem-e-ē=č lā=š=o ∅-b-o \\ 
+ \textsc{ind-}come\textsc{.prs}\textsc{.3sg} night\textsc{.f}\textsc{-indf} from night\textsc{.f}\textsc{-obl}\textsc{.pl} woman\textsc{.f}\textsc{-indf}\textsc{=3sg} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} \textsc{reflx}\textsc{=3sg}=and girl\textsc{.obl}\textsc{.f} adolescent\textsc{-f}\textsc{-indf}\textsc{=add} at\_the\_place\_of\textsc{=3sg}\textsc{=\textsc{post}} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} \\ 
+\glt `There came a night when —he had a wife. She and an adolescent daughter [of his] were with him.'
+\z 
+ 
+\ea \label{ZB.9}
+\textit{kuřēš bā, kuřekēš germīyānne nimēniš čene} \\ 
+\gll kuř-ē=š b-ā kuř-ekē=š germīyān=ne ni-m-ē-nē=iš čene \\ 
+ son\textsc{.m}\textsc{-dir}\textsc{.pl}\textsc{=3sg} be\textsc{.prs}\textsc{-3pl} son/boy\textsc{.m}\textsc{-def}\textsc{.dir}\textsc{.pl}\textsc{=3sg} \textsc{pn}\textsc{=\textsc{post}} \textsc{neg-}\textsc{ind-}come\textsc{.prs}\textsc{-3pl}\textsc{=3sg} with \\ 
+\glt `He had sons. His sons did not accompany him [;they stayed in] Garmiyan. '
+\z 
+ 
+\ea \label{ZB.10}
+\textit{e čā nīšore, šewē wārānē wāro} \\ 
+\gll e=čā ∅-nīš-o=re šewe-ē wārān-ē ∅-wār-o \\ 
+ in=there \textsc{ind-}sit\textsc{.prs}\textsc{-3sg}\textsc{=\textsc{povb}} night\textsc{.f}\textsc{-obl}\textsc{.f} rain\textsc{-indf} \textsc{ind-}rain\textsc{-3sg} \\ 
+\glt `They settled there (i.e. in that region). One night, it was raining.'
+\z 
+ 
