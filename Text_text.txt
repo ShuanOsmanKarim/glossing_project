@@ -427,7 +427,6 @@
 \z 
 
 
-
 \ea \label{ZQ.1}
 \textit{ʕerzū xizmetīt kerū} \\ 
 \gll ʕerz=ū xizmet-ī=t ∅-ker-ū \\ 
@@ -502,7 +501,7 @@
 \textit{wextū ī jimāymārā āmāymēwe āmāymē kelēwe} \\ 
 \gll wext=ū ī jimāy=mā=rā āmā-ymē=we āmā-īmē kel-ēwe \\ 
  time\textsc{.m}\textsc{=ez.gen} \textsc{dem.prox} move\textsc{.inf}\textsc{=\textsc{1pl}}\textsc{=\textsc{povb}} come\textsc{.pst} \textsc{1pl}\textsc{=compl} come\textsc{.pst} \textsc{1pl} mountain\textsc{-indf} \\ 
-\glt `On our return (journey), we went\footnote{Lit. came.}  to a mountain. '
+\glt `On our return (journey), we went\footnote{Lit. came.} to a mountain. '
 \z 
  
 \ea \label{ZQ.12}
@@ -543,7 +542,7 @@
 \ea \label{ZQ.17}
 \textit{kuřeke yošā weš kewtebē kuřū} \\ 
 \gll kuř-eke yo=šā weš kewte b-ē kuř=ū \\ 
- son/boy\textsc{.m}\textsc{-def}\textsc{.dir}\textsc{.m} one\textsc{.m}\textsc{=3pl} good fall\textsc{.pst}\textsc{.ptcp}\textsc{.m} be.prs\textsc{-pstc}\textsc{.3sg} son/boy\textsc{.m}=and \\ 
+ son\textsc{.m}\textsc{-def}\textsc{.dir}\textsc{.m} one\textsc{.m}\textsc{=3pl} good fall\textsc{.pst}\textsc{.ptcp}\textsc{.m} be.prs\textsc{-pstc}\textsc{.3sg} son\textsc{.m}=and \\ 
 \glt `One of the newborn boys was healthy. '
 \z 
  
@@ -621,7 +620,7 @@
 \textit{sāɫē.. luāymērā oge,} \\ 
 \gll sāɫe-ē luā-ymē=rā oge \\ 
  year.f\textsc{-indf} go\textsc{.pst} \textsc{1pl}\textsc{=\textsc{povb}} there \\ 
-\glt `A year [passed since] we went back there.'
+\glt `A year later, we went back there.'
 \z 
  
 \ea \label{ZQ.29}
@@ -649,7 +648,7 @@
 \textit{āy bāwke řo, āy tāte řo īđīč luāw ewīč luā} \\ 
 \gll āy bāwke řo āy tāte řo īđ=īč luā=ū ew=īč luā \\ 
  \textsc{intj} fahter.\textsc{voc} onom \textsc{intj} father\textsc{.m} onom 3sg.prox\textsc{.dir}\textsc{.m}\textsc{=add} go\textsc{.pst}\textsc{.3sg}=and 3sg\textsc{.dir}\textsc{.m}\textsc{=add} go\textsc{.pst}\textsc{.3sg} \\ 
-\glt `Oh dear God\footnote{The expressions bāwka řo and tāta řo are used to mourn someone’s death, or to express distress.}, he (the child whom I took with me) died; he (the child whom I left behind) died too!\footnote{Lit. This one went; that one, too, went.} '
+\glt `Oh dear God\footnote{The expressions \textit{bāwka řo} and \textit{tāta řo} are used to mourn someone’s death, or to express distress.}, he (the child whom I took with me) died; he (the child whom I left behind) died too!\footnote{Lit. This one went; that one, too, went.} '
 \z 
  
 \ea \label{ZQ.33}
@@ -698,7 +697,7 @@
 \textit{wextē luānē werew temāšem kerd miđyew be ʕemrew xwāy e čī qiřolī| ēnnew čīčew ženē pīfē peydā bīyenē| ʕeyn pīfē} \\ 
 \gll wext-ē luā-ānē wer=ew temāše=m kerd mi-đye-ū be ʕemre=ū xwā-ī ečī qiřoɫ-ī ēnne=w čīče=ū ženī-ē pīfē-ē peydā bīyē=nē ʕeyn pīfē \\ 
  time\textsc{.m}\textsc{-indf} go\textsc{.pst}\textsc{-\textsc{1sg}} front\textsc{.m}\textsc{=\textsc{post}} looking\textsc{=\textsc{1sg}} do\textsc{.pst} \textsc{ind-}look.prs\textsc{-\textsc{1sg}} by order.f\textsc{=ez.gen} God\textsc{.m}\textsc{-obl}\textsc{.m} in.\textsc{dem.prox} hollow\textsc{.m}\textsc{-obl}\textsc{.m} as\_much\_as\textsc{=ez.gen} nipple\textsc{=ez.gen} woman.f\textsc{-obl}.f burr.f\textsc{-dir}\textsc{.pl} visible be\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} like balloon.f \\ 
-\glt `When I got closer and looked inside, I noticed that, by the order of God, some burrs the size of a woman's nipple had appeared in the tree hollow, like balloons.'
+\glt `When I got closer and looked inside, I noticed that, by the order of God, some burrs the size of a woman's breast had appeared in the tree hollow, like balloons.'
 \z 
  
 \ea \label{ZQ.40}
@@ -712,14 +711,14 @@
 \textit{āne memkeš īnā je pīfekēwe jīyā bīyeno} \\ 
 \gll āne memke=š īnā-∅ je pīfē-ekē=we jīyā bīye=n=o \\ 
  \textsc{dem.dist}\textsc{.dir}\textsc{.m}\textsc{.3sg} breast\textsc{.m}\textsc{=3sg} deic\textsc{-3sg}\textsc{.m} from burr.f\textsc{-def}\textsc{.obl}.f\textsc{=compl} separate be\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m}\textsc{=compl} \\ 
-\glt `The breast was clearly distinguished from the burr. '
+\glt `The breast had grown out of the burr that much.\footnote{The narrator is showing how much big the breast was using his hands.}'
 \z 
  
 \ea \label{ZQ.42}
 \textit{xwāy deseɫātē čāneš bīyen ī pīfēše weše kerdēne} \\ 
 \gll xwā-ī deseɫāt=ē čāne=š bīye=n ī pīfē=š=e weš-e kerdē=ne \\ 
  God\textsc{.m}\textsc{-obl}\textsc{.m} power\textsc{.m}=ez.\textsc{attr} like\_that\textsc{=3sg} be\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \textsc{dem.prox} burr.f\textsc{=3sg}\textsc{=dem} well\textsc{-f} do\textsc{.pst}\textsc{.ptcp}.f\textsc{=cop}\textsc{.3sg}.f \\ 
-\glt `God’s work was such: he had made this burr; '
+\glt `God’s work was such that he had made this burr;'
 \z 
  
 \ea \label{ZQ.43}
@@ -758,10 +757,10 @@
 \z 
  
 \ea \label{ZQ.48}
-\textit{wātim, beydē dilū āweđānīekey} \\ 
+\textit{wātim, beydē dilū āweđānīekey!} \\ 
 \gll wāt=im b-e-ydē dil=ū āweđānī-ekey \\ 
  say\textsc{.pst}\textsc{=\textsc{1sg}} \textsc{sbjv-}come.prs-\textsc{2pl} inside\textsc{=ez.gen} oasis\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m} \\ 
-\glt `I said, ‘Come to the meadow’'
+\glt `I said, ‘Come to the meadow!’'
 \z 
  
 \ea \label{ZQ.49}
@@ -820,7 +819,7 @@
 \glt `Everything, everything, is easy for God.'
 \z 
  
-
+ 
 \ea \label{HB.1}
 \textit{zemānē hezretū šēh ʕelādīnī šēh ʕelādīnī mertebeš ʕālī bo} \\ 
 \gll zemān-ē hezret=ū šēh ʕelādīn-ī šēh ʕelādīn-ī mertebe=š ʕālī ∅-b-o \\ 
@@ -874,7 +873,7 @@
 \textit{bāɫānisbet ā wextīye, be weɫāx be} \\ 
 \gll bāɫānisbet ā wext-ī=e be weɫāx be \\ 
  God\_forbid \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=dem} by horse/ donkey\textsc{.m} by \\ 
-\glt `May it be far [from you]; back then, they had a donkey for carrying loads.'
+\glt `God forbid [that you should ever do that job]; back then, they had donkeys a for carrying loads.'
 \z 
  
 \ea \label{HB.9}
@@ -922,8 +921,8 @@
 \ea \label{HB.15}
 \textit{kābrāyč herbenew hereyn, milo herey gurj kerowew gino řā,} \\ 
 \gll kābrā=īč herbene=ū her-e-ī=n mi-l-o her-e-ī gurj ∅-ker-o=we=ū ∅-gin-o řā \\ 
- man\textsc{=add} donkey\_breeder\textsc{.m}=and donkey\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \textsc{ind-}go\textsc{.prs}\textsc{-3sg} donkey\textsc{.m}-\textsc{2sg}\textsc{-obl}\textsc{.m} alert \textsc{ind-}do\textsc{.prs}\textsc{-3sg}\textsc{=\textsc{compl}}\textsc{=ez}\textsc{.gen} \textsc{ind-}fall\textsc{.prs}\textsc{-3sg} road\textsc{\textsc{.f}} \\ 
-\glt `The fellow who was a donkey breeder, went and prepared the donkey, [and] set off.'
+ man\textsc{=add} donkey\_keeper\textsc{.m}=and donkey\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \textsc{ind-}go\textsc{.prs}\textsc{-3sg} donkey\textsc{.m}-\textsc{2sg}\textsc{-obl}\textsc{.m} alert \textsc{ind-}do\textsc{.prs}\textsc{-3sg}\textsc{=\textsc{compl}}\textsc{=ez}\textsc{.gen} \textsc{ind-}fall\textsc{.prs}\textsc{-3sg} road\textsc{\textsc{.f}} \\ 
+\glt `The fellow who was a donkey keeper, went and prepared the donkey, [and] set off.'
 \z 
  
 \ea \label{HB.16}
@@ -951,7 +950,7 @@
 \textit{māčo, āy dāxekey dāxim bē min čen bē ʕeqiɫ bīyā!} \\ 
 \gll m-āč-o āy dāx-eke=y dāx=im b-ē min čen bē-ʕeqiɫ bī-ā \\ 
  \textsc{ind-}say\textsc{.prs}\textsc{-3sg} \textsc{intj} sorrow\textsc{-def}\textsc{.dir}\textsc{.m}\textsc{=ez}.\textsc{attr} sorrow\textsc{=1sg} be\textsc{.prs}\textsc{-pstc}\textsc{.3sg} \textsc{1sg} how\_much without-wisdom be\textsc{.pst}\textsc{-1sg} \\ 
-\glt `He (the donkey breeder) said, ‘Oh, I wish I was dead! Look how stupid I was!’'
+\glt `He (the donkey keeper) said, ‘Oh, I wish I was dead! Look how stupid I was!’'
 \z 
  
 \ea \label{HB.20}
@@ -1209,8 +1208,8 @@
 \ea \label{HB.56}
 \textit{hēɫeřuenīšā kerde pey sāhēbū hereyū pey herbenew hereyū} \\ 
 \gll hēɫeřuenī=šā kerd-e pey sāhēb=ū her-e-ī=ū pey herbene=ū her-e-ī=ū \\ 
- fried\_egg\textsc{.dir}\textsc{\textsc{.f}}\textsc{=3pl} do\textsc{.pst}-f\textsc{.3sg} for owner\textsc{.m}\textsc{=ez}\textsc{.gen} donkey\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m}\textsc{=ez}\textsc{.gen} for donkey breeder\textsc{.m}=and donkey\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m}\textsc{=ez}\textsc{.gen} \\ 
-\glt `They (the host’s family) cooked fried eggs for the owner of the donkey, for the donkey breeder.'
+ fried\_egg\textsc{.dir}\textsc{\textsc{.f}}\textsc{=3pl} do\textsc{.pst-}\textsc{3sg.f} for owner\textsc{.m}\textsc{=ez}\textsc{.gen} donkey\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m}\textsc{=ez}\textsc{.gen} for donkey\_keeper\textsc{.m}=and donkey\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m}\textsc{=ez}\textsc{.gen} \\ 
+\glt `They (the host’s family) cooked fried eggs for the owner of the donkey, for the donkey keeper.'
 \z 
  
 \ea \label{HB.57}
@@ -1287,7 +1286,7 @@
 \textit{vātiš, be xwā kābrāy, be xwā min luānēwe bīyārē ī bārū herīme vistre dehfē ter min lā šēxīwe menīšū} \\ 
 \gll vāt=iš be xwā kābrā-ī be xwā min luā-ānē=we bīyārē ī bār=ū her-ī=m=e vist=re dehfe=ē ter min lā šēx-ī=we me-nīš-w \\ 
  say\textsc{.pst}\textsc{=3sg} by God\textsc{.m} man\textsc{-obl}\textsc{.m} by God\textsc{.m} 1sg go\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{-1sg}\textsc{=\textsc{compl}} \textsc{pn} \textsc{dem.prox} load\textsc{.m}\textsc{=ez}\textsc{.gen} donkey\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=1sg}\textsc{=dem} throw\textsc{.pst}\textsc{=\textsc{povb}} time\textsc{\textsc{.f}}\textsc{=ez}.\textsc{attr} other 1sg at\_the\_place\_of sheikh\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}} \textsc{neg-}sit\textsc{.prs}\textsc{-1sg} \\ 
-\glt `The fellow, i.e. the donkey breeder, said, ‘By God, when I go back to Biyare [and] unload the donkey’s load, I won’t sit together with the sheikh anymore!'
+\glt `The fellow, i.e. the donkey keeper, said, ‘By God, when I go back to Biyare [and] unload the donkey’s load, I won’t sit together with the sheikh anymore!'
 \z 
  
 \ea \label{HB.68}
@@ -1300,7 +1299,7 @@
 \ea \label{HB.69}
 \textit{herbeneš pey kerūnew renjberiš bīyenā} \\ 
 \gll herbene=š pey ∅-ker-ūne=ū renjber=iš bīye=nā \\ 
- donkey breeder\textsc{.m}\textsc{=3sg} for \textsc{ind-}do\textsc{.prs}\textsc{-1sg}\textsc{=ez}\textsc{.gen} worker\textsc{.m}\textsc{=3sg} be\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.1sg} \\ 
+ donkey keeper\textsc{.m}\textsc{=3sg} for \textsc{ind-}do\textsc{.prs}\textsc{-1sg}\textsc{=ez}\textsc{.gen} worker\textsc{.m}\textsc{=3sg} be\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.1sg} \\ 
 \glt `I take care of the donkeys for him; I have been his worker.'
 \z 
  
@@ -1364,7 +1363,7 @@
 \textit{hurmēzo hezretū šēxī pīyāy kīyāno} \\ 
 \gll hur-m-ēz-o hezret=ū šēx=ī pīyā-ī ∅-kīyān-o \\ 
  \textsc{pvb-}\textsc{ind-}rise\textsc{.prs}\textsc{-3sg} his\_highness\textsc{.m}\textsc{=ez}\textsc{.gen} sheikh\textsc{.m}\textsc{=ez}.\textsc{attr} man\textsc{.m}\textsc{-obl}\textsc{.m} \textsc{ind-}send\textsc{.prs}\textsc{-3sg} \\ 
-\glt `Then\footnote{Lit. He rose.}, his highness the Sheikh sent men [to the donkey breeder]'
+\glt `Then\footnote{Lit. He rose.}, his highness the Sheikh sent men [to the donkey keeper]'
 \z 
  
 \ea \label{HB.79}
@@ -1378,7 +1377,7 @@
 \textit{čiřoš hezretū šēxī fermāwo, erē řoɫem čī toryānī?} \\ 
 \gll ∅-čiř-o=š hezret=ū šēx=ī ∅-fermāw-o erē řoɫe=m čī toryā=nī? \\ 
  \textsc{ind-}call\textsc{.prs}\textsc{-3sg}\textsc{=3sg} his\_highness\textsc{.m}\textsc{=ez}\textsc{.gen} sheikh\textsc{.m}\textsc{=ez}.\textsc{attr} \textsc{ind-}say\textsc{.prs}\textsc{-3sg} \textsc{disc.ptcl} child\textsc{.m}\textsc{=1sg} why get offended\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.\textsc{2sg}} \\ 
-\glt ` His highness the Sheikh summoned him, i.e. the donkey breeder, [and] said, ‘Oh son! why were you offended? '
+\glt ` His highness the Sheikh summoned him, i.e. the donkey keeper, [and] said, ‘Oh son! why were you offended? '
 \z 
  
 \ea \label{HB.81}
@@ -2290,7 +2289,7 @@
 \textit{ā wextīekey beɫē, min bilo ā memleketū wēšā, kiseɫīš čenē, ēme zāmdārē nekero ēme kečē nekero} \\ 
 \gll ā wext-ī-ekey beɫē min bi-l-o ā memleket=ū wē=šā kiseɫī=š čenē ēme zāmdār-ē ne-ker-o ēme keč-ē ne-ker-o \\ 
  \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m} yes \textsc{1sg} \textsc{sbjv-}go\textsc{.prs}\textsc{-3sg} \textsc{dem.dist} country\textsc{.m}\textsc{=ez}\textsc{.gen} \textsc{reflx}\textsc{=3pl} tortoise\textsc{\textsc{.f}}\textsc{=3sg} in \textsc{1pl} wounded\textsc{\textsc{-pl}} \textsc{neg-}do\textsc{.prs}\textsc{-3sg} \textsc{1pl} crooked\textsc{\textsc{-pl}} \textsc{neg-}do\textsc{.prs}\textsc{-3sg} \\ 
-\glt `[The Sheikh said], ‘Yes!' '[The tortoise said] I [say] he [should] go to his region; there are tortoises there. He shall not injure us; he shall not make us crooked. '
+\glt `[The Sheikh said], ‘Yes!' '[The tortoise said] I [say] he [should] go to his region; there are tortoises there. He shall not make us wounded; he shall not make us crooked. '
 \z 
  
 \ea \label{DG.65}
@@ -2304,7 +2303,7 @@
 \textit{ē.. dewāyekeš sāwe pore dā ēme kečē nebīmē} \\ 
 \gll ē.. dewāī-eke=š ∅-sāw-e pore dā ēme keč-ē ne-b-īmē \\ 
  eh medication\textsc{-def}\textsc{.dir}\textsc{.m}\textsc{=3sg} \textsc{imp-}rub\textsc{.prs}-\textsc{2sg} at \textsc{hort} \textsc{1pl} crooked\textsc{\textsc{-pl}} \textsc{neg-}be\textsc{.prs}-\textsc{1pl} \\ 
-\glt `He shall rub the medicine on him; he shall not make us crooked.'
+\glt `He shall rub the medicine on him; may we not be crooked.'
 \z 
  
 \ea \label{DG.67}
@@ -2356,7 +2355,6 @@
 \glt `This is the story of our Sheikhs and their greatness.'
 \z 
  
-
 \ea \label{DP.1}
 \textit{dāstānū ī hewrāmānū ēmeyče duē pādšē e čē bā} \\ 
 \gll dāstāne=ū ī hewrāmān=ū ēme=īč=e duē pādšā-ē e=čē ∅-b-ā \\ 
@@ -3873,7 +3871,7 @@
 \ea \label{ŽP.29}
 \textit{werū mejbūrī yewāyč bero} \\ 
 \gll wer=ū mejbūrī yewe-ā=yč ∅-ber-o \\ 
- out\_of\textsc{\textsc{=ez.gen}} obligation barley\textsc{.f}\textsc{-3pl}\textsc{=add} \textsc{ind-}take\textsc{.prs}\textsc{-3sg} \\ 
+ out\_of\textsc{\textsc{=ez.gen}} obligation barley\textsc{.f}\textsc{-pl.obl}\textsc{=add} \textsc{ind-}take\textsc{.prs}\textsc{-3sg} \\ 
 \glt ` Out of obligation, he took the barley seeds, too.'
 \z 
  
@@ -4132,7 +4130,7 @@
 \ea \label{ŽP.66}
 \textit{fire mūsāū kem mūsāw} \\ 
 \gll fire m-ūs-ā=ū kem m-ūs-ā=ū \\ 
- many \textsc{ind-}sleep\textsc{.prs}\textsc{-3pl}=and little \textsc{ind-}sleep\textsc{.prs}\textsc{-3pl}=and \\ 
+ a\_lot \textsc{ind-}sleep\textsc{.prs}\textsc{-3pl}=and little \textsc{ind-}sleep\textsc{.prs}\textsc{-3pl}=and \\ 
 \glt `They slept a lot; They slept a little.'
 \z 
  
@@ -4418,8 +4416,8 @@
  
 \ea \label{ŽP.107}
 \textit{be zor miđoš milū sey misefāyre zerey} \\ 
-\gll be zor mi-đe-o=š mil=ū sey misefā-ī=re zer-e=y \\ 
- by force \textsc{ind-}give\textsc{.prs}\textsc{-3sg}\textsc{=3sg} on\textsc{\textsc{=ez.gen}} \textsc{pn} \textsc{pn}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}} money\textsc{.m}\textsc{-def}\textsc{=ez}.\textsc{attr} \\ 
+\gll be zor mi-đe-o=š mil=ū sey misefā-ī=re zer-e-y \\ 
+ by force \textsc{ind-}give\textsc{.prs}\textsc{-3sg}\textsc{=3sg} on\textsc{\textsc{=ez.gen}} \textsc{pn} \textsc{pn}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}} money\textsc{.m}\textsc{-def}\textsc{-obl.m} \\ 
 \glt `He (the man from Hajij) did not take no for an answer\footnote{Lit. with force.} [and] gave him (Pir Shaliyar) the money.'
 \z 
  
@@ -4679,7 +4677,7 @@
 \textit{welī emāneketē xās xeɫk bāwiřiš pene mekero} \\ 
 \gll welī emāneketē xās xeɫk bāwiř=iš pene me-ker-o \\ 
  but but fine people\textsc{.m} belief\textsc{=3sg} in \textsc{neg-}do\textsc{.prs}\textsc{-3sg} \\ 
-\glt `But people still did not believe in him [as a leader].'
+\glt `But people still did not believe in him that much [as a leader].'
 \z 
  
 \ea \label{ŽP.145}
@@ -4713,7 +4711,7 @@
 \ea \label{ŽP.149}
 \textit{kināčekē feleje bo felejīyekeyš je diɫišne bo} \\ 
 \gll kināčē-ekē felej-e ∅-b-o felejī-ekey=š je diɫ=iš=ne ∅-b-o \\ 
- girl\textsc{.dir}\textsc{.f}\textsc{-def}\textsc{.dir}\textsc{.f} disabled\textsc{-f} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} disability\textsc{-def}\textsc{.obl}\textsc{.m}\textsc{=3sg} from heart\textsc{.m}\textsc{=3sg}\textsc{=\textsc{post}} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} \\ 
+ girl\textsc{.f}\textsc{-def}\textsc{.dir}\textsc{.f} disabled\textsc{-f} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} disability\textsc{-def}\textsc{.obl}\textsc{.m}\textsc{=3sg} from heart\textsc{.m}\textsc{=3sg}\textsc{=\textsc{post}} \textsc{ind-}be\textsc{.prs}\textsc{-3sg} \\ 
 \glt `The girl was disabled. Her disability came from her tongue\footnote{Lit. heart.}'
 \z 
  
@@ -4908,8 +4906,8 @@
  
 \ea \label{ŽP.177}
 \textit{ī dēwēnē ī kināčēšā bestēne} \\ 
-\gll ī dēw=ē=nē ī kināčē=šā bestē=ne \\ 
- dem.prox demon\textsc{.m}\textsc{=ez}.\textsc{attr}\textsc{=cop}\textsc{.3pl} dem.prox girl\textsc{.dir}\textsc{.f}\textsc{=3pl} tie\textsc{.pst}\textsc{.ptcp}\textsc{.f}\textsc{=cop}\textsc{.3sg}\textsc{.f} \\ 
+\gll ī dēw-ē=nē ī kināčē=šā bestē=ne \\ 
+ dem.prox demon\textsc{.m}\textsc{-dir.pl}\textsc{=cop}\textsc{.3pl} dem.prox girl\textsc{.dir}\textsc{.f}\textsc{=3pl} tie\textsc{.pst}\textsc{.ptcp}\textsc{.f}\textsc{=cop}\textsc{.3sg}\textsc{.f} \\ 
 \glt `It was the demons who had muted the girl.'
 \z 
  
@@ -5105,7 +5103,7 @@
 \ea \label{ŽP.205}
 \textit{muxteserū kelāmī, yāney yozāwew milā berāš xizmetū pīrīyū} \\ 
 \gll muxteser=ū kelām-ī yāne-ī ∅-yoz-ā=we=ū mi-l-ā ∅-ber-ā=š xizmet=ū pīr-ī=ū \\ 
- summary\textsc{.m}\textsc{\textsc{=ez.gen}} speech\textsc{-obl}\textsc{.m} house\textsc{.m}\textsc{-obl}\textsc{.m} \textsc{ind-}find\textsc{.prs}\textsc{-3pl}\textsc{=compl}\textsc{\textsc{=ez.gen}} \textsc{ind-}go\textsc{.prs}\textsc{-3pl} \textsc{ind-}take\textsc{.prs}\textsc{-3pl}\textsc{=3sg} service\textsc{.m}\textsc{\textsc{=ez.gen}} \textsc{pn}\textsc{-obl}\textsc{.m}=and \\ 
+ summary\textsc{.m}\textsc{\textsc{=ez.gen}} speech\textsc{-obl}\textsc{.m} house\textsc{.m}\textsc{-obl}\textsc{.m} \textsc{ind-}find\textsc{.prs}\textsc{-3pl}\textsc{=compl}{=and} \textsc{ind-}go\textsc{.prs}\textsc{-3pl} \textsc{ind-}take\textsc{.prs}\textsc{-3pl}\textsc{=3sg} service\textsc{.m}\textsc{\textsc{=ez.gen}} \textsc{pn}\textsc{-obl}\textsc{.m}=and \\ 
 \glt ` To cut a long story short,\footnote{Lit. Gist of speech} they found the house. They (the people) went [and] took him to the presence of Pir [Shaliyar]'
 \z 
  
@@ -5549,8 +5547,7 @@
  peace upon\_you and God's\_mercy and blessing \\ 
 \glt `May peace and God’s mercy and blessings be upon you.'
 \z 
-
-
+ 
 \ea \label{BP.1}
 \textit{zemānū bābāw pīr šelīyārī, heke, nāmēš bābā xwāđā bīyen} \\ 
 \gll zemān=ū bābā=ū pīr šelīyār-ī heke nāmē=š bābā xwāđā bīye=n \\ 
@@ -5611,7 +5608,7 @@
 \textit{ā zemān bābā xwāđā bīyen, ā zemān ī mexlūqū hewrāmānātū ēme reʕīsšā je ʕērāqew čā kurdewārīū ʕērāqīne bīyen} \\ 
 \gll ā zemān bābā xwāđā bīye=n ā zemān ī mexlūq=ū hewrāmān-āt=ū ēme reʕīs=šā je ʕērāq=ew čā kurdewārī=ū ʕērāq-ī=ne bīye=n \\ 
  \textsc{dem.dist} time\textsc{.m} grandfather\textsc{.m} \textsc{pn} be\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \textsc{dem.dist} time\textsc{.m} \textsc{dem.prox} people\textsc{=ez.gen} \textsc{pn}\textsc{\textsc{-pl}}\textsc{=ez.gen} \textsc{1pl} leader\textsc{.m}\textsc{=3pl} from \textsc{pn}\textsc{=\textsc{post}} there kurdish\_region\textsc{=ez.gen} \textsc{pn}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}} be\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \\ 
-\glt `At the time of Babab Khwada, the people of Hawraman were under Iraq’s rule, under the control of Kurdish regions in Iraq.'
+\glt `At the time of Baba Khwada, the people of Hawraman were under Iraq’s rule, under the control of Kurdish regions in Iraq.'
 \z 
  
 \ea \label{BP.10}
@@ -5870,7 +5867,7 @@
 \textit{xeber yāwo be bābā xwāđāw ħemey ġeybī} \\ 
 \gll xeber ∅-yāw-o be bābā xwāđā=ū ħeme=ī ġeybī \\ 
  news\textsc{.dir}\textsc{.m} \textsc{ind-}arrive.prs\textsc{-3sg} to grandfather\textsc{.m} \textsc{pn}\textsc{=ez.gen} \textsc{pn}=ez.\textsc{attr} invisible \\ 
-\glt `The news reached Baba Khwada and Hama the invisible.'
+\glt `The news reached Baba Khwada and Hama the Invisible.'
 \z 
  
 \ea \label{BP.47}
@@ -5905,7 +5902,7 @@
 \textit{ħemey ġeybīw bābāw pīr šelīyārī, bābā xwāđā māčā be xeɫkekey,} \\ 
 \gll ħeme=ī ġeybī=ū bābā=ū pīr šelīyār-ī bābā xwāđā m-āč-ā be xeɫk-ekey \\ 
  \textsc{pn}=ez.\textsc{attr} invisible=and grandfather\textsc{.m}\textsc{=ez.gen} \textsc{pn} \textsc{pn}\textsc{-obl}\textsc{.m} grandfather\textsc{.m} \textsc{pn} \textsc{ind-}say.prs\textsc{-3pl} to people\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m} \\ 
-\glt `Hama Ghaybi and Pir Shaliyar’s grandfather, i.e., Baba Khwada, said to the people, '
+\glt `Hama the Invisible and Pir Shaliyar’s grandfather, i.e., Baba Khwada, said to the people, '
 \z 
  
 \ea \label{BP.52}
@@ -5981,7 +5978,7 @@
 \ea \label{BP.62}
 \textit{je hewrāmānne kārī nāšerʕī kerēnē.’} \\ 
 \gll je hewrāmān=ne kār=ī nāšerʕī ker-ēn-ē \\ 
- from \textsc{pn}\textsc{=\textsc{post}} task\textsc{.m}=ez.\textsc{attr} unlawful do.prs\textsc{-pstc}\textsc{-3pl} \\ 
+ at \textsc{pn}\textsc{=\textsc{post}} task\textsc{.m}=ez.\textsc{attr} unlawful do.prs\textsc{-pstc}\textsc{-3pl} \\ 
 \glt `They committed unlawful acts in Hawraman.’'
 \z 
  
@@ -6150,7 +6147,7 @@
 \textit{āđīč mē werew māčo, fermāwo, dā dey dey jārēne jimdēre’} \\ 
 \gll āđ=īč m-ē wer=ew m-āč-o ∅-fermāw-o dā dey dey jār-ē=ne ∅-jim-dē=re \\ 
  3sg\textsc{.dir}\textsc{.m}\textsc{=add} \textsc{ind-}come.prs\textsc{.3sg} front\textsc{.m}\textsc{=\textsc{post}} \textsc{ind-}say.prs\textsc{-3sg} \textsc{ind-}say.prs\textsc{-3sg} give\textsc{.pst} \textsc{disc.ptcl} \textsc{disc.ptcl} time\textsc{.m}\textsc{-indf}\textsc{=\textsc{post}} \textsc{imp-}move.prs-\textsc{2pl}\textsc{=\textsc{povb}} \\ 
-\glt `He (Baba Khwada) came forward [and] said, ‘Please, set off the way all of you.’'
+\glt `He (Baba Khwada) came forward [and] said, ‘Please, set off on the way, all of you.’'
 \z 
  
 \ea \label{BP.87}
@@ -6234,7 +6231,7 @@
 \textit{ā wextī ēti seʕbe milā milāne mizgī, mizyāre beynē gināre řā beynē bilā pey ʕērāqī jemʕē bā ħemey ġeybīū bābā xuāđā ginā weɫēwe} \\ 
 \gll ā wext-ī ēti seʕbe mi-l-ā mi-l-ān=e mizgī mi- zye-ā=re beynē ∅-gin-ā=re řā beynē bi-l-ā pey ʕērāq-ī jemʕ-ē ∅-b-ā ħeme=ī ġeybī=ū bābā xuāđā ∅-gin-ā weɫē=we \\ 
  \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m} \textsc{disc.ptcl} morning.f \textsc{ind-}go.prs\textsc{-3pl} \textsc{ind-}go.prs\textsc{-3pl}=drct mosque\textsc{.m} \textsc{ind-}go\_out.prs\textsc{-3pl}\textsc{=\textsc{povb}} a\_while \textsc{ind-}fall.prs\textsc{-3pl}\textsc{=\textsc{povb}} road.f a\_while \textsc{sbjv-}go.prs\textsc{-3pl} for \textsc{pn}\textsc{-obl}\textsc{.m} added\textsc{-pstc}\textsc{.3sg} \textsc{ind-}be.prs\textsc{-3pl} \textsc{pn}=ez.\textsc{attr} invisible=and grandfather\textsc{.m} \textsc{pn} \textsc{ind-}fall.prs\textsc{-3pl} front\textsc{=\textsc{post}} \\ 
-\glt `So, in the morning they went to the mosque. They went a little way towards Iraq. They all gathered. Hama Ghaybi and Baba Khwada went in front of them.'
+\glt `So, in the morning they went to the mosque. They went a little way towards Iraq. They all gathered. Hama the Invisible and Baba Khwada went in front of them.'
 \z 
  
 \ea \label{BP.99}
@@ -6283,7 +6280,7 @@
 \textit{bābā xwāđāw ħemey ġeybīū ħemey wirdīkɫe her ginēnē weɫē īnē weɫēne ejošā girđ īnē šūnīšāwe} \\ 
 \gll bābā xwāđā=ū ħeme=ī ġeybī=ū ħeme=ī wirdīkɫe her gin-ēn-ē weɫē īnē weɫē=ne ejo=šā girđ īnē šūnī=šā=we \\ 
  grandfather\textsc{.m} \textsc{pn}\textsc{=ez.gen} \textsc{pn}=ez.\textsc{attr} invisible=and \textsc{pn}=ez.\textsc{attr} small just fall.prs\textsc{-pstc}\textsc{-3pl} front \textsc{dem.prox}\textsc{.dir}.f\textsc{.3sg} front\textsc{=\textsc{post}} guess.prs\textsc{=3pl} all \textsc{dem.prox}\textsc{.dir}.f\textsc{.3sg} track.f\textsc{=3pl}\textsc{=compl} \\ 
-\glt `Baba Khwada, Hama the invisible, and little Hama were in front, assuming that everyone was following them.'
+\glt `Baba Khwada, Hama the Invisible, and Little Hama were in front, assuming that everyone was following them.'
 \z 
  
 \ea \label{BP.106}
@@ -6304,7 +6301,7 @@
 \textit{wextē miđyo her ā yerē neferēnē ewēšā gird gēɫēnēwe} \\ 
 \gll wext-ē mi-đye-o her ā yerē nefer-ē=nē ewēšā gird gēɫē=nē=we \\ 
  time\textsc{.m}\textsc{-indf} \textsc{ind-}look.prs\textsc{-3sg} just \textsc{dem.dist} three person\textsc{.m}\textsc{-dir}\textsc{.pl}\textsc{=cop}\textsc{.3pl} 3pl\textsc{.dir} all turn\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl}\textsc{=compl} \\ 
-\glt ` They realised that there were only the three of them. All the rest had returned [to Hawraman].'
+\glt `They realised that there were only the three of them. All the rest had returned [to Hawraman].'
 \z 
  
 \ea \label{BP.109}
@@ -6339,7 +6336,7 @@
 \textit{fermāwo ħemey ġeybī, āy wiɫāhī hewrāmī tā meřeber} \\ 
 \gll ∅-fermāw-o ħeme=ī ġeybī āy wiɫāhī hewrāmī tā meřeber \\ 
  \textsc{ind-}say.prs\textsc{-3sg} \textsc{pn}=ez.\textsc{attr} invisible \textsc{intj} indeed Hawrami until \textsc{pn} \\ 
-\glt `Hama Ghaybi said, ‘Well, By God, hawrāmī tā mařabar'
+\glt `Hama the Invisible said, ‘Well, By God, hawrāmī tā mařabar'
 \z 
  
 \ea \label{BP.114}
@@ -6360,7 +6357,7 @@
 \textit{tenyā āđē luēnē} \\ 
 \gll tenyā āđē luē=nē \\ 
  only 3pl\textsc{.dir} go\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} \\ 
-\glt `Only they (Baba Khwada, Hama Ghaybi, and Hama Wirdikla) went [to Iraq]'
+\glt `Only they (Baba Khwada, Hama the Invisible, and Little Hama) went [to Iraq]'
 \z 
  
 \ea \label{BP.117}
@@ -6402,14 +6399,14 @@
 \textit{ā wextī reʕīsū milāre ʕērāq lāw āġekeyšā māčo seremā biřyēnē bābāw pīr šelīyārī bo, ā wextīyekey ħemey ġeybīū yoyč bo nāmē ħemey wirdīkɫe,} \\ 
 \gll ā wext-ī reʕīs=ū mi-l-ā=re ʕērāq lā=ū āġe-ekey=šā m-āč-o sere=mā biřyē=nē bābā=ū pīr šelīyār-ī ∅-b-o ā wext-ī-ekey ħeme=ī ġeybī=ū yo=yč ∅-b-o nāmē ħeme=ī wirdīkɫe \\ 
  \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m} leader\textsc{.m}\textsc{=ez.gen} \textsc{ind-}go.prs\textsc{-3pl}\textsc{=\textsc{povb}} \textsc{pn} at\_the\_place\_of\textsc{=ez.gen} agha\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m}\textsc{=3pl} \textsc{ind-}say.prs\textsc{-3sg} head\textsc{.m}\textsc{=\textsc{1pl}} cut\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} grandfather\textsc{.m}\textsc{=ez.gen} \textsc{pn} \textsc{pn}\textsc{-obl}\textsc{.m} \textsc{ind-}be.prs\textsc{-3sg} \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m} \textsc{pn}=ez.\textsc{attr} invisible=and one\textsc{.m}\textsc{=add} \textsc{ind-}be.prs\textsc{-3sg} name.f \textsc{pn}=ez.\textsc{attr} small \\ 
-\glt `The head of those who went to Iraq to the agha, saying, ‘We have decapitated [your men], was Pir Shaliyar’s grandfather, Baba Khwada. In addition [there were] Hama the invisible and Little Hama. '
+\glt `The head of those who went to Iraq to the agha, saying, ‘We have decapitated [your men], was Pir Shaliyar’s grandfather, Baba Khwada. In addition [there were] Hama the Invisible and Little Hama. '
 \z 
  
 \ea \label{BP.123}
 \textit{ħemey wirdīkɫe ā wextī, pēse īsey māčā heɫāy neyāwān sinʕe zīnāniš nekermē yā čīw yā čāne} \\ 
 \gll ħeme=ī wirdīkɫe ā wext-ī pēse īse-ī m-āč-ā heɫāy ne-yāwā=n sinʕe zīnān=iš ne-ker-mē yā čīw yā č=ā=ne \\ 
  \textsc{pn}=ez.\textsc{attr} small \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m} like now\textsc{-obl}\textsc{.m} \textsc{ind-}say.prs\textsc{-3pl} yet \textsc{neg-}arrive\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} age.f prison\textsc{.m}\textsc{=3sg} \textsc{neg-}do.prs\textsc{-\textsc{1pl}} either thing\textsc{.m} either in=\textsc{dem.dist}\textsc{=\textsc{post}} \\ 
-\glt `As [it is] nowadays, they (the agha’s attendants) will say, ‘Hama Wirdikla has not reached adulthood; we won’t imprison him, and so on.’'
+\glt `As [it is] nowadays, they (the agha’s attendants) will say, ‘Little Hama has not reached adulthood; we won’t imprison him, and so on.’'
 \z 
  
 \ea \label{BP.124}
@@ -6465,7 +6462,7 @@
 \textit{bābā xuāđāw ħemew ġeybī, āđē, āđīšā kerā zīnān’} \\ 
 \gll bābā xuāđā=ū ħeme=ū ġeybī āđē āđīšā ∅-ker-ā zīnān \\ 
  grandfather\textsc{.m} \textsc{pn}=and \textsc{pn}\textsc{=ez.gen} invisible 3pl\textsc{.dir} 3pl\textsc{.obl} \textsc{ind-}do.prs\textsc{-3pl} prison\textsc{.m} \\ 
-\glt `Baba Khwada and Hama Ghaybi, they (agha’s men) put them  in prison.'
+\glt `Baba Khwada and Hama the Invisible, they (the agha’s men) put them  in prison.'
 \z 
  
 \ea \label{BP.132}
@@ -6507,14 +6504,14 @@
 \textit{kerāšā zīnān,} \\ 
 \gll ∅-ker-ā šā zīnān \\ 
  \textsc{ind-}do.prs\textsc{-3pl} king\textsc{.m} prison\textsc{.m} \\ 
-\glt `They put them (Baba Khwada and Hama Ghaybi) in jail. '
+\glt `They put them (Baba Khwada and Hama the Invisible) in jail. '
 \z 
  
 \ea \label{BP.138}
 \textit{hemey wirdīkɫey mekerā zīnān ewīšā kerā zīnān} \\ 
 \gll heme=ī wirdīkɫe-ī me-ker-ā zīnān ewīšā ∅-ker-ā zīnān \\ 
  \textsc{pn}=ez.\textsc{attr} small\textsc{-obl}\textsc{.m} \textsc{neg-}do.prs\textsc{-3pl} prison\textsc{.m} 3pl\textsc{.obl} \textsc{ind-}do.prs\textsc{-3pl} prison\textsc{.m} \\ 
-\glt `They didn’t put Hama Wirdikla in jail. They put them (Baba Khwada and Hama Ghaybi) in jail.'
+\glt `They didn’t put Little Hama in jail. They put them (Baba Khwada and Hama the Invisible) in jail.'
 \z 
  
 \ea \label{BP.139}
@@ -6549,7 +6546,7 @@
 \textit{ħemey wirdīkɫeyč mičkile bo, wirdīkɫe bo pāne girđ seferē milo pā šārne gēɫo} \\ 
 \gll ħeme=ī wirdīkɫe=yč mičkile ∅-b-o wirdīkɫe ∅-b-o p=ā=ne girđ sefer-ē mi-l-o p=ā šār=ne ∅-gēɫ-o \\ 
  \textsc{pn}=ez.\textsc{attr} small\textsc{=add} small \textsc{ind-}be.prs\textsc{-3sg} small \textsc{ind-}be.prs\textsc{-3sg} at=\textsc{dem.dist}\textsc{=\textsc{post}} all trip\textsc{-indf} \textsc{ind-}go.prs\textsc{-3sg} at=\textsc{dem.dist} city\textsc{.m}\textsc{=\textsc{post}} \textsc{ind-}wander.prs\textsc{-3sg} \\ 
-\glt `Hama Wirdikla was small and young. He would constantly go around in the city.'
+\glt `Little Hama was small and young. He would constantly go around in the city.'
 \z 
  
 \ea \label{BP.144}
@@ -6591,28 +6588,28 @@
 \textit{ētir māwāš fire bo yā kem bo her činne māngē bo her činne wextē bo wextē milo serū řūčinekey nānšā pey wizorew wextē miđyo hešpišā dēnēne} \\ 
 \gll ētir māwā=š fire ∅-b-o yā kem ∅-b-o her činne mānge-ē ∅-b-o her činne wext-ē ∅-b-o wext-ē mi-l-o ser=ū řūčine-ekey nān=šā pey ∅-wiz-o=re=ū wext-ē mi-đye-o hešpišī-ā dē=nē=ne \\ 
  \textsc{disc.ptcl} period\textsc{.m}\textsc{=3sg} a\_lot \textsc{ind-}be.prs\textsc{-3sg} either little \textsc{ind-}be.prs\textsc{-3sg} just some month.f\textsc{-dir}\textsc{.pl} \textsc{ind-}be.prs\textsc{-3sg} just some time\textsc{.m}\textsc{-dir}\textsc{.pl} \textsc{ind-}be.prs\textsc{-3sg} time\textsc{.m}\textsc{-indf} \textsc{ind-}go.prs\textsc{-3sg} on\textsc{=ez.gen} chimney\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m} bread\textsc{.m}\textsc{=3pl} for \textsc{ind-}throw.prs\textsc{-3sg}\textsc{=\textsc{povb}}=and time\textsc{.m}\textsc{-indf} \textsc{ind-}look.prs\textsc{-3sg} lice.f\textsc{-obl}\textsc{.pl} give\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl}\textsc{=\textsc{povb}} \\ 
-\glt `Their imprisonment lasted either a long time or short time. It took them months. Once, when he (Hama Wirdikla) went to the chimney to throw food for them, he realised that they had gotten lice.'
+\glt `Their imprisonment lasted either a long time or short time. It took them months. Once, when he (Little Hama) went to the chimney to throw food for them, he realised that they had gotten lice.'
 \z 
  
 \ea \label{BP.150}
 \textit{ī due nefere hešpišā dēnēne, gīršā wārden} \\ 
 \gll ī due nefer=e hešpišī-ā dē=nē=ne gīr=šā wārde=n \\ 
  \textsc{dem.prox} two.f person\textsc{.m}\textsc{=dem} lice.f\textsc{-obl}\textsc{.pl} give\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl}\textsc{=\textsc{povb}} hook\textsc{.m}\textsc{=3pl} eat\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \\ 
-\glt `These two persons (Baba Khwada and Hama Ghaybi) had gotten lice. They had gotten stuck.'
+\glt `These two persons (Baba Khwada and Hama the Invisible) had gotten lice. They had gotten stuck.'
 \z 
  
 \ea \label{BP.151}
 \textit{hešpišā dēnēne, čē hurmēzo pēse hēlyānī miročē nīšore} \\ 
 \gll hešpišī-ā dē=nē=ne čē hur- m-ēz-o pēse hēlyānī miroče-ē ∅-nīš-o=re \\ 
  lice.f\textsc{-obl}\textsc{.pl} give\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl}\textsc{=\textsc{povb}} here \textsc{pvb-}\textsc{ind-}rise.prs\textsc{-3sg} like nest ant\textsc{-dir}\textsc{.pl} \textsc{ind-}sit.prs\textsc{-3sg}\textsc{=\textsc{povb}} \\ 
-\glt `They had gotten lice. The lice had grown up like ants. '
+\glt `They had gotten lice. The lice had grown like ants. '
 \z 
  
 \ea \label{BP.152}
 \textit{serew des kero girewāy,} \\ 
 \gll ser=ew des ∅-ker-o girewāy \\ 
  on\textsc{=\textsc{post}} hand\textsc{.m} \textsc{ind-}do.prs\textsc{-3sg} cry\textsc{.inf} \\ 
-\glt `He (Hama Wirdikla) started to cry on the roof. '
+\glt `He (Little Hama) started to cry on the roof. '
 \z 
  
 \ea \label{BP.153}
@@ -6654,7 +6651,7 @@
 \textit{dāstānē fire tūle miđā wer} \\ 
 \gll dāstāne-ē fire tūl-e mi-đe-ā wer \\ 
  story.f\textsc{-obl}.f a\_lot long\textsc{-f} \textsc{ind-}give.prs\textsc{-3pl} out \\ 
-\glt `He talked about his concerns at length. '
+\glt `He talked about his concerns at length.\footnote{Lit. He released a very long tale.} '
 \z 
  
 \ea \label{BP.159}
@@ -6675,7 +6672,7 @@
 \textit{bizāne yānew kē pī činnē hāy wexte nānē čīwēšā dānī ārdenit pey ēme, ārdenit pey ēmew} \\ 
 \gll bi-zān-e yāne=ū kē p=ī činnē hāy wext=e nān-ē čīw-ē=šā dā=nī ārde=n=it pey ēme ārde=n=it pey ēme=ū \\ 
  \textsc{sbjv-}know.prs-\textsc{2sg} house\textsc{.m}\textsc{=ez.gen} who at=\textsc{dem.prox} some\textsc{.pl} \textsc{intj} time\textsc{.m}\textsc{=dem} meal\textsc{.m}\textsc{-indf} thing\textsc{.m}\textsc{-indf}\textsc{=3pl} give\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.\textsc{2sg}} bring\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m}\textsc{=\textsc{2sg}} for \textsc{1pl} bring\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m}\textsc{=\textsc{2sg}} for \textsc{1pl}=and \\ 
-\glt `see which household has given you food, which you brought to us, during this period!'
+\glt `see which household has given you food which you brought to us during this period!'
 \z 
  
 \ea \label{BP.162}
@@ -6717,7 +6714,7 @@
 \textit{ā wextī milo mēwe herkesī goš dārābone, dūr kewtenwe je, kučē je šāreke meselen e čē luān tā milemārfā wēšū xānewādeš} \\ 
 \gll ā wext-ī mi-l-o m-ē=we herkesī goš dārā b-one dūr kewte=n=we je kuč-ē je šār-eke meselen e=čē luā=n tā milemārfā wē=š=ū xānewāde=š \\ 
  \textsc{dem.dist} time\textsc{.m}\textsc{-obl}\textsc{.m} \textsc{ind-}go.prs\textsc{-3sg} \textsc{ind-}come.prs\textsc{.3sg}\textsc{=compl} whoever ear\textsc{.m} hold\textsc{.pst}\textsc{.ptcp}\textsc{.m} be.prs\textsc{-3sg} far fall\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m}\textsc{=compl} from little\textsc{-indf} from city\textsc{.m}\textsc{-def}\textsc{.dir}\textsc{.m} for\_example in=here go\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} until \textsc{pn} \textsc{reflx}\textsc{=3sg}=and family\textsc{.m}\textsc{=3sg} \\ 
-\glt `Then, he went [to town] and came back. Whoever might have listened to him had gone away from the city. For instance, they had gone together with their family as far as Milamarfa\footnote{name of a summer habitat.}.'
+\glt `Then, he went [to town] and came back. If anyone had listened to him, they had gone away from the city. Let's say, they might have gone together with their family as far as Milamarfa\footnote{name of a summer habitat.}.'
 \z 
  
 \ea \label{BP.168}
@@ -6759,7 +6756,7 @@
 \textit{bāzem dūbāre ī sefer wextē milowe dimā leqē māɫo zīnānekeyre zīnāneke yekser veɫādīm bo} \\ 
 \gll bāzem dūbāre ī sefer wext-ē mi-l-o=we dimā leq-ē ∅-māɫ-o zīnān-ekey=re zīnān-eke yekser veɫādīm ∅-b-o \\ 
  again again \textsc{dem.prox} trip time\textsc{.m}\textsc{-indf} \textsc{ind-}go.prs\textsc{-3sg}\textsc{=compl} afterwards kick\textsc{-indf} \textsc{ind-}smash.prs\textsc{-3sg} prison\textsc{.m}\textsc{-def}\textsc{.obl}\textsc{.m}\textsc{=\textsc{post}} prison\textsc{.m}\textsc{-def}\textsc{.dir}\textsc{.m} totally collapsed \textsc{ind-}be.prs\textsc{-3sg} \\ 
-\glt `This time, when he went backward and kicked the prison [wall], the prison totally collapsed.'
+\glt `This time, when he went backwards and kicked the prison [wall], the prison totally collapsed.'
 \z 
  
 \ea \label{BP.174}
@@ -6794,7 +6791,7 @@
 \textit{āhā māčā īnā čū dīmne lāw beynū zāwerīnew tewēɫēne ħemey ġeybī hen} \\ 
 \gll āhā m-āč-ā īnā-∅ č=ū dīm=ne lā=ū beyn=ū zāwer-ī=ne=ū tewēɫē=ne ħeme=ī ġeybī hen-∅ \\ 
  \textsc{intj} \textsc{ind-}say.prs\textsc{-3pl} deic\textsc{-3sg}\textsc{.m} in=\textsc{dem.dist}\textsc{.3sg} side\textsc{.m}\textsc{=\textsc{post}} at\_the\_place\_of\textsc{=ez.gen} among\textsc{=ez.gen} \textsc{pn}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}}=and \textsc{pn}\textsc{=\textsc{post}} \textsc{pn}=ez.\textsc{attr} invisible exist\textsc{-3sg}\textsc{.m} \\ 
-\glt `It is said that, on this side of the border, there is the shrine of Hama the invisible between the villages of Zawar and Tawela.'
+\glt `It is said that, on this side of the border, there is the shrine of Hama the Invisible between the villages of Zawar and Tawela.'
 \z 
  
 \ea \label{BP.179}
@@ -6808,14 +6805,14 @@
 \textit{šāreke šēwīo zīnānīyē mirexesē bā be āzāđī mēnēwe} \\ 
 \gll šār-eke šēwye-o zīnānī-ē mirexes-ē ∅-b-ā be āzāđī m-ē-nē=we \\ 
  city\textsc{.m}\textsc{-def}\textsc{.dir}\textsc{.m} be\_confused.prs\textsc{-3sg} prisoner\textsc{-dir}\textsc{.pl} released\textsc{\textsc{-pl}} \textsc{ind-}be.prs\textsc{-3pl} to freedom\textsc{.m} \textsc{ind-}come.prs\textsc{.3sg}\textsc{-3pl}\textsc{=compl} \\ 
-\glt `There was turmoil in the city. The prisoners were liberated. They went back [to Hawraman] freely.'
+\glt `There was turmoil in the city. The prisoners were liberated. They went back [to Hawraman] free.'
 \z 
  
 \ea \label{BP.181}
 \textit{mēnē e čā ħemey ġeybī fermāwo, fermāwo, min mānīyēnmē e čē bā kučē nīšmēre} \\ 
 \gll m-ē-nē e=čā ħeme=ī ġeybī ∅-fermāw-o ∅-fermāw-o min mānīyē=nmē e=čē bā kuč-ē ∅-nīš-mē=re \\ 
  \textsc{ind-}come.prs\textsc{-3pl} in=there \textsc{pn}=ez.\textsc{attr} invisible \textsc{ind-}say.prs\textsc{-3sg} \textsc{ind-}say.prs\textsc{-3sg} \textsc{1sg} tired\textsc{.pl}\textsc{=cop}\textsc{.\textsc{1pl}} in=here \textsc{hort} little\textsc{-indf} \textsc{sbjv-}sit.prs\textsc{-\textsc{1pl}}\textsc{=\textsc{povb}} \\ 
-\glt `They went [to the region between Zawar and Tawela]. Hama Ghaybi said, ‘I, we are tired. Let us rest\footnote{Lit. sit.} a little bit here.'
+\glt `They went [to the region between Zawar and Tawela]. Hama the Invisible said, ‘I, we are tired. Let us rest\footnote{Lit. sit.} a little bit here.'
 \z 
  
 \ea \label{BP.182}
@@ -6857,21 +6854,21 @@
 \textit{wēš kero čēr} \\ 
 \gll wē=š ∅-ker-o čēr \\ 
  \textsc{reflx}\textsc{=3sg} \textsc{ind-}do.prs\textsc{-3sg} under \\ 
-\glt `He put his robe on himself.'
+\glt `He crept under his robe .'
 \z 
  
 \ea \label{BP.188}
 \textit{ʕebākēš miđo wēšre xizone čēro ʕebākē be ʕinwānū witeywew seyāywe} \\ 
 \gll ʕebā-ekē=š mi-đe-o wē=š=re ∅-xiz-one čēr=o ʕebā-ekē be ʕinwān=ū witey=we=ū seyāy=we \\ 
  robe.f\textsc{-def}\textsc{.obl}.f\textsc{=3sg} \textsc{ind-}give.prs\textsc{-3sg} \textsc{reflx}\textsc{=3sg}\textsc{=\textsc{post}} \textsc{ind-}creep\textsc{-3sg} under\textsc{=\textsc{post}} robe.f\textsc{-def}\textsc{.obl}.f to label\textsc{.m}\textsc{=ez.gen} sleep\textsc{.inf}\textsc{=compl}=and rest\textsc{.inf}\textsc{=compl} \\ 
-\glt `He put it on himself. He crawled into his robe, supposedly for resting and sleeping'
+\glt `He put it over him. He crept under his robe, supposedly to rest and sleep'
 \z 
  
 \ea \label{BP.189}
 \textit{āđēč miqdārē be enāzew seʕātē nīšāre dīyāršo} \\ 
 \gll āđē=č miqdārē be enāze=ū seʕāt-ē ∅-nīš-ā=re dīyār=š=o \\ 
  3pl\textsc{.dir}\textsc{=add} a\_little to proportion\textsc{=ez.gen} hour\textsc{.m}\textsc{-indf} \textsc{ind-}sit.prs\textsc{-3pl}\textsc{=\textsc{povb}} region\textsc{.m}\textsc{=3sg}\textsc{=\textsc{post}} \\ 
-\glt `They (Baba Khwada and Hama Wirdikla) waited for him for about an hour.'
+\glt `They (Baba Khwada and Little Hama) waited for him for about an hour.'
 \z 
  
 \ea \label{BP.190}
@@ -6988,8 +6985,8 @@
  
 \ea \label{BP.206}
 \textit{kuřey nāmē minyā mihemeđ} \\ 
-\gll kuř-e-ī nāmē=ī mi-nye-ā mihemeđ \\ 
- son/boy\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m} name.f=ez.\textsc{attr} \textsc{ind-}put.prs\textsc{-3pl} \textsc{pn} \\ 
+\gll kuř-e-ī nāmē mi-nye-ā mihemeđ \\ 
+ son/boy\textsc{.m}\textsc{-def}\textsc{-obl}\textsc{.m} name\textsc{.f} \textsc{ind-}put.prs\textsc{-3pl} \textsc{pn} \\ 
 \glt `They named the son Muhammad.'
 \z 
  
@@ -7035,7 +7032,6 @@
 \glt `This was his tale. [It was] until there.'
 \z 
  
-
 \ea \label{ŠJ.1}
 \textit{zemānew jāfir sānū luhonī bo} \\ 
 \gll zemāne=ū jāfir sān=ū luhon-ī ∅-b-o \\ 
@@ -7494,8 +7490,8 @@
 \ea \label{ŠJ.66}
 \textit{seʕbē wiɫāxdārē milā pey hīn lāw wiɫāxā tewēɫī wiɫāxē ber bārā bilā šūnū hermānērew kāērew hēzmīre} \\ 
 \gll seʕbe-ē wiɫāxdār-ē mi-l-ā pey hīn lā=ū wiɫāx-ā tewēɫe-ī wiɫāx-ē ber ∅-bār-ā bi-l-ā šūn=ū hermānē=re=ū kāē=re=ū hēzmī=re \\ 
- morning.f\textsc{-obl}.f stableman\textsc{-dir}\textsc{.pl} \textsc{ind-}go.prs\textsc{-3pl} to \textsc{fill} at\_the\_place\_of\textsc{=ez.gen} horse/donkey\textsc{.m}\textsc{-obl}\textsc{.pl} stable\textsc{.m}\textsc{-obl}\textsc{.m} horse/donkey\textsc{.m}\textsc{-dir}\textsc{.pl} out \textsc{sbjv-}load\textsc{.m}\textsc{-3pl} \textsc{sbjv-}go.prs\textsc{-3pl} after\textsc{=ez.gen} work\textsc{.obl}.f\textsc{=\textsc{post}}=and dry\_grass\textsc{.dir}\textsc{.pl}\textsc{=\textsc{post}}=and firewood.f\textsc{=\textsc{post}} \\ 
-\glt ` In the morning, the horse grooms went to the horses in the stable. They [wanted] to take the horses out [and] go after their jobs, [collecting] straw, and wood.'
+ morning.f\textsc{-obl}.f stableman\textsc{-dir}\textsc{.pl} \textsc{ind-}go.\textsc{prs-3pl} to \textsc{fill} at\_the\_place\_of\textsc{=ez.gen} horse/donkey\textsc{.m}\textsc{-obl}\textsc{.pl} stable\textsc{.m}\textsc{-obl}\textsc{.m} horse/donkey\textsc{.m}\textsc{-dir}\textsc{.pl} out \textsc{sbjv-}load\textsc{.m}\textsc{-3pl} \textsc{sbjv-}go.prs\textsc{-3pl} after\textsc{=ez.gen} work\textsc{.obl}.f\textsc{=\textsc{post}}=and dry\_grass\textsc{.dir}\textsc{.pl}\textsc{=\textsc{post}}=and firewood.f\textsc{=\textsc{post}} \\ 
+\glt ` In the morning, the stablemen went to the horses in the stable. They [wanted] to take the horses out [and] go after their jobs, [collecting] straw, and wood.'
 \z 
  
 \ea \label{ŠJ.67}
@@ -7799,7 +7795,6 @@
 \glt `The world has changed and it has affected him.'
 \z 
  
-
 \ea \label{KŠ.1}
 \textit{ew wextī īnē her girđ řāzū eyemnē lāšo bīyenā eyām} \\ 
 \gll ew wext-ī īnē her girđ řāz=ū eye=m=nē lā=š=o bīye=nā eyā=m \\ 
@@ -7852,7 +7847,7 @@
 \ea \label{KŠ.8}
 \textit{meɫāyēwā kitēbēwe gewreš īnā pene} \\ 
 \gll meɫā-ēw=ā kitēb-ēwe gewre=š īnā-∅ pene \\ 
- mullah\textsc{.m}\textsc{-indf}\textsc{=cop}\textsc{.3sg}\textsc{.m} book\textsc{.m}\textsc{-indf} big\textsc{=3sg} \textsc{deic}\textsc{-3sg}\textsc{.m} with \\ 
+ mullah\textsc{.m}\textsc{-indf}\textsc{=cop}\textsc{.3sg}\textsc{.m} book\textsc{.m}\textsc{-indf} big\textsc{.m=3sg} \textsc{deic}\textsc{-3sg}\textsc{.m} with \\ 
 \glt `It was a Mullah. He had a big book with him.'
 \z 
  
@@ -7913,9 +7908,9 @@
 \z 
  
 \ea \label{KŠ.17}
-\textit{āđīč hukmiš dā wātiš, ženē leme peře mebo bo} \\ 
-\gll āđ=īč hukm=iš dā wāt=iš ženī-ē leme peř-e me-b-o ∅-b-o \\ 
- 3sg\textsc{.dir}\textsc{.m}\textsc{=add} rule\textsc{.m}\textsc{=3sg} give\textsc{.pst} say\textsc{.pst}\textsc{=3sg} woman\textsc{.f}\textsc{-indf} stomach\textsc{.f} full\textsc{-f} \textsc{neg-}be\textsc{.prs}\textsc{-3sg} \textsc{sbjv-}be\textsc{.prs}\textsc{-3sg} \\ 
+\textit{āđīč hukmiš dā wātiš, ženē lemepeře mebo bo} \\ 
+\gll āđ=īč hukm=iš dā wāt=iš ženī-ē lemepeř-e me-b-o ∅-b-o \\ 
+ 3sg\textsc{.dir}\textsc{.m}\textsc{=add} rule\textsc{.m}\textsc{=3sg} give\textsc{.pst} say\textsc{.pst}\textsc{=3sg} woman\textsc{.f}\textsc{-indf} pregnant\textsc{-f} \textsc{neg-}be\textsc{.prs}\textsc{-3sg} \textsc{sbjv-}be\textsc{.prs}\textsc{-3sg} \\ 
 \glt `He (the king) issued an order [and] said, ‘No pregnant women should stay alive!’\footnote{Lit. No pregnant women should be.}'
 \z 
  
@@ -8272,8 +8267,8 @@
 \ea \label{KŠ.68}
 \textit{kuřē juwānxās lāw tāteyšo mē} \\ 
 \gll kuř-ē juwānxās lā=ū tāte-ī=š=o m-ē \\ 
- boy\textsc{.m}\textsc{-indf} gentlemanly at\_the\_place\_of\textsc{\textsc{=ez.gen}} father\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=3sg}\textsc{=\textsc{post}} \textsc{ind-}come\textsc{.prs}\textsc{.3sg} \\ 
-\glt `A beautiful boy had come from her father’s place.'
+ boy\textsc{.m}\textsc{-indf} good\_looking.\textsc{m} at\_the\_place\_of\textsc{\textsc{=ez.gen}} father\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=3sg}\textsc{=\textsc{post}} \textsc{ind-}come\textsc{.prs}\textsc{.3sg} \\ 
+\glt `A good-looking boy had come from her father’s place.'
 \z 
  
 \ea \label{KŠ.69}
@@ -8550,7 +8545,6 @@
 \z 
  
 
-
 \ea \label{ŽH.1}
 \textit{min zāroɫe bēnē, lāw eyemo} \\ 
 \gll min zāroɫe b-ēn-ē lā=ū eye=m=o \\ 
@@ -8652,7 +8646,7 @@
 \ea \label{ŽH.15}
 \textit{milā řāhur, milā nizīkū degākē gināwe,} \\ 
 \gll mi-l-ā řā=hur mi-l-ā nizīk=ū degā-ekē ∅-gin-ā=we \\ 
- \textsc{ind-}go\textsc{.prs}\textsc{-3pl} road\textsc{\textsc{.f}}\textsc{=\textsc{post}} \textsc{ind-}go\textsc{.prs}\textsc{-3pl} close\textsc{=ez}\textsc{.gen} village\textsc{\textsc{.f}}\textsc{-def}\textsc{.obl}\textsc{\textsc{.f}} ind\textsc{-f}all\textsc{.prs}\textsc{-3pl}\textsc{=compl} \\ 
+ \textsc{ind-}go\textsc{.prs}\textsc{-3pl} road\textsc{\textsc{.f}}\textsc{=\textsc{post}} \textsc{ind-}go\textsc{.prs}\textsc{-3pl} close\textsc{=ez}\textsc{.gen} village\textsc{\textsc{.f}}\textsc{-def}\textsc{.obl}\textsc{\textsc{.f}} \textsc{ind}-fall\textsc{.prs}\textsc{-3pl}\textsc{=compl} \\ 
 \glt `They continued [along] the road. They got close to the village.'
 \z 
  
@@ -8996,7 +8990,7 @@
 \textit{qerār pāse bo e čē xānū ewēgē āđ čenū āđī suɫtān mehmū bē hečkes bē qāɫešā bī hāčkes ženē xāse bāro bē ewēge āđ bilo bo mēmānšā} \\ 
 \gll qerār pāse ∅-b-o e=čē xān=ū ewēge-ē āđ čenū āđī suɫtān mehmū b-ē hečkes b-ē qāɫe=šā bī-∅ hāčkes ženī-ē xās-e b-ār-o b-ē ewēge āđ bi-l-o ∅-b-o mēmān=šā \\ 
  arrangement like \textsc{ind-}be\textsc{.prs}\textsc{-3sg} in=here chief\textsc{.m}\textsc{=ez}\textsc{.gen} there\textsc{-obl}\textsc{\textsc{.f}} 3sg\textsc{.dir}\textsc{.m} with.ez\textsc{.gen} 3sg\textsc{.obl}\textsc{.m} sul \textsc{pn} be\textsc{.prs}\textsc{-pstc}\textsc{.3sg} whoever be\textsc{.prs}\textsc{-pstc}\textsc{.3sg} quarrel\textsc{\textsc{.f}}\textsc{=3pl} be\textsc{.pst}\textsc{-3sg}\textsc{.m} whoever woman\textsc{\textsc{.f}}\textsc{-indf} fine\textsc{-f} \textsc{sbjv-}bring\textsc{.prs}\textsc{-3sg} \textsc{sbjv-}come\textsc{.prs}\textsc{.3sg} there \textsc{3sg}\textsc{.dir}\textsc{.m} \textsc{sbjv-}go\textsc{.prs}\textsc{-3sg} \textsc{sbjv-}be\textsc{.prs}\textsc{-3sg} guest\textsc{.m}\textsc{=3pl} \\ 
-\glt `In the old times, the rule was that — the khan of there, whether it was Sultan Mahmud, with whom he (Hayas) had got into a quarrel, or anyone else— whoever got married and took a beautiful wife, he (the king) would go [and] become their guest.'
+\glt `In the old times, the rule was that — the khan of there, whether it was Sultan Mahmud, with whom he (Hayas) had got into a quarrel, or anyone else— whoever got married and took a charming wife, he (the king) would go [and] become their guest.'
 \z 
  
 \ea \label{ŽH.65}
@@ -9385,7 +9379,7 @@
 \z 
 
 
-
+\setcounter{equation}{0}
 \ea \label{RE.1}
 \textit{zemānē zemāniš bīyen} \\ 
 \gll zemān-ē zemān=iš bīye=n \\ 
@@ -9683,7 +9677,7 @@
 \ea \label{RE.43}
 \textit{e čē duē begēmā bīyēnē lūēnē} \\ 
 \gll e=čē duē beg-ē=mā bīyē=nē lūē=nē \\ 
- in=here two Beg\textsc{.m}\textsc{-indf}\textsc{=\textsc{1pl}} be\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} go\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} \\ 
+ in=here two Beg\textsc{.m}\textsc{-dir.pl}\textsc{=\textsc{1pl}} be\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} go\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} \\ 
 \glt `Then, even if you might not have given [your daughter in marriage], We had two begs ‘lords’ to whom they (the girl's family) would go.'
 \z 
  
@@ -9892,7 +9886,6 @@
  
  
 
-
 \ea \label{ŽE.1}
 \textit{dey čēgeyč qeyīm ʕāɫifšā kennenū} \\ 
 \gll dey čēge=īč qeyīm ʕāɫif=šā kenne=n=ū \\ 
@@ -9910,14 +9903,14 @@
 \ea \label{ŽE.3}
 \textit{hewārēšā wiškinēnē} \\ 
 \gll hewār-ē=šā wiškinē=nē \\ 
- summar\_habitat\textsc{.m}\textsc{-dir}\textsc{.pl}\textsc{=3pl} ransack\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} \\ 
+ summar\_habitat\textsc{.m}\textsc{-dir}\textsc{.pl}\textsc{=3pl} scour\textsc{.pst}\textsc{.ptcp}\textsc{.pl}\textsc{=cop}\textsc{.3pl} \\ 
 \glt `They scoured the summer habitats [searching for food etc.].'
 \z 
  
 \ea \label{ŽE.4}
 \textit{ī degā toš vīnī čoɫe bīyēne} \\ 
 \gll ī degā to=š ∅-vīn-ī čoɫ-e bīyē=ne \\ 
- \textsc{dem.prox} village\textsc{.obl}\textsc{\textsc{.f}} \textsc{2sg}\textsc{=3sg} \textsc{ind-}see\textsc{.prs}-\textsc{2sg} deserted-\textsc{f} be\textsc{.ptcp}\textsc{\textsc{.f}}\textsc{=cop}\textsc{.3sg}\textsc{\textsc{.f}} \\ 
+ \textsc{dem.prox} village{\textsc{.f}} \textsc{2sg}\textsc{=3sg} \textsc{ind-}see\textsc{.prs}-\textsc{2sg} deserted-\textsc{f} be\textsc{.ptcp}\textsc{\textsc{.f}}\textsc{=cop}\textsc{.3sg}\textsc{\textsc{.f}} \\ 
 \glt `This village, which you see, was deserted.'
 \z 
  
@@ -10488,7 +10481,6 @@
 \glt `If they didn’t agree, they wouldn’t give her.'
 \z 
  
-
 \ea \label{ŽM.1}
 \textit{heštā sāɫē ʕemirmā} \\ 
 \gll heštā sāɫe-ē ʕemr=m=ā \\ 
@@ -10520,8 +10512,8 @@
 \ea \label{ŽM.5}
 \textit{je herbeneywe serem beršīyen} \\ 
 \gll je herbene-ī=we sere=m ber-šīye=n \\ 
- from donkey breeder\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}} head\textsc{.m}\textsc{=\textsc{1sg}} out- go\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \\ 
-\glt `I learned to work as a donkey breeder.'
+ from donkey keeper\textsc{.m}\textsc{-obl}\textsc{.m}\textsc{=\textsc{post}} head\textsc{.m}\textsc{=\textsc{1sg}} out- go\textsc{.pst}\textsc{.ptcp}\textsc{.m}\textsc{=cop}\textsc{.3sg}\textsc{.m} \\ 
+\glt `I learned to work as a donkey keeper.'
 \z 
  
 \ea \label{ŽM.6}
@@ -10870,7 +10862,7 @@
 \ea \label{ŽM.55}
 \textit{ētir īse weʕzū hewrāmānī tā menteqē terē kučē xāsterā} \\ 
 \gll ētir īse weʕze=ū hewrāmān-ī tā menteqe-ē ter-ē kuč-ē xās-ter=ā \\ 
- \textsc{disc}.\textsc{ptcl} now situation\textsc{.f}\textsc{=ez.gen} \textsc{pn}\textsc{-obl}\textsc{.m} until region\textsc{-dir}\textsc{.pl} other\textsc{-dir}\textsc{.pl} little\textsc{-indf} fine\textsc{-cmpr}\textsc{=cop}\textsc{.3sg}\textsc{.m} \\ 
+ \textsc{disc}.\textsc{ptcl} now situation\textsc{.f}\textsc{=ez.gen} \textsc{pn}\textsc{-obl}\textsc{.m} until region\textsc{-dir}\textsc{.pl} other\textsc{-dir}\textsc{.pl} little\textsc{-indf} good\textsc{-cmpr}\textsc{=cop}\textsc{.3sg}\textsc{.m} \\ 
 \glt `The situation in Hawraman is a bit better than in other regions.'
 \z 
  
