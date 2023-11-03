@@ -1,0 +1,392 @@
+\ea \label{dp4.1}
+\textit{dāstānū ī hewrāmānū ēmeyče duē pādšē e čē bā} \\ 
+\gll dāstān=ū ī hewrāmān=ū ēme=yč=e duē pādšā-ē e=čē b-ā  \\ 
+story\textsc{.f}=\textsc{ez}.gen \textsc{dem}.\textsc{prox} \textsc{pn}=\textsc{ez}.gen \textsc{1pl}=\textsc{=add}=\textsc{dem} two king\textsc{.m}-\textsc{dir}.pl in=here be.\textsc{prs}-\textsc{3pl}  \\ 
+\glt `As for the tales of this Hawraman region of us, there used to be two kings here.'
+\z 
+ 
+\ea \label{dp4.2}
+\textit{yošā be nāmēw sibhān āġeywe} \\ 
+\gll yo=šā be nāmē=w sibhān āġe-y=we  \\ 
+=\textsc{3pl} by name\textsc{.f}=\textsc{ez}.gen \textsc{pn} \textsc{agha}\textsc{.m}-\textsc{obl}\textsc{.m}=\textsc{=post}  \\ 
+\glt `One of them [was] called Sibhan Agha.'
+\z 
+ 
+\ea \label{dp4.3}
+\textit{yošā be nāmēw jemšēr šāywe} \\ 
+\gll yo=šā be nāmē=w jemšēr šā-y=we  \\ 
+one\textsc{.m}=\textsc{3pl} by name\textsc{.f}=\textsc{ez}.gen \textsc{pn} king\textsc{.m}-\textsc{obl}\textsc{.m}=\textsc{=post}  \\ 
+\glt `One of them [was] called Jamsher Agha.'
+\z 
+ 
+\ea \label{dp4.4}
+\textit{jemšēr šā je dūrew āmān} \\ 
+\gll jemšēr šā je dūr=ew āmā=n  \\ 
+\textsc{pn} king\textsc{.m} from far=\textsc{=post} come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `Jamsher Shah came [to Hawraman] from far.'
+\z 
+ 
+\ea \label{dp4.5}
+\textit{āmān gerekiš bīyen ī memliketī dāgīr kero pey wēš} \\ 
+\gll āmā=n gerek=iš bīye=n ī memliket-ī dāgīr ker-o pey wē=š  \\ 
+come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} necessary=\textsc{3sg} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} \textsc{dem}.\textsc{prox} country\textsc{.m}-\textsc{obl}\textsc{.m} occupied do.\textsc{prs}-\textsc{3sg} for \textsc{reflx}=\textsc{3sg}  \\ 
+\glt `He wanted to occupy this region [and control it] for his interest.'
+\z 
+ 
+\ea \label{dp4.6}
+\textit{hāḷītā?} \\ 
+\gll hāḷī=t=ā  \\ 
+understood=\textsc{2sg}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `You see?'
+\z 
+ 
+\ea \label{dp4.7}
+\textit{āmān ēgehe e čē beynē nūrūīš bīyen} \\ 
+\gll āmā=n ēgehe e=čē beynē nūrūī=š bīye=n  \\ 
+come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} here in=here a while force\textsc{.m}=\textsc{3sg} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `He came here. He had forces here.'
+\z 
+ 
+\ea \label{dp4.8}
+\textit{penjā šes neferē šūnīšo bīyēnēw} \\ 
+\gll penjā šes nefer-ē šūnī=š=o bīyē=nē=w  \\ 
+fifty sixty person\textsc{.m}-\textsc{dir}.pl track\textsc{.f}=\textsc{3sg}=\textsc{=post} be.\textsc{ptcp}.pl=cop.\textsc{3pl}=and  \\ 
+\glt `Some fifty, sixty persons backed him.'
+\z 
+ 
+\ea \label{dp4.9}
+\textit{āmān lūān ā qeɫāw hewrāmānī e pāgewe nīštenre} \\ 
+\gll āmā=n lūā=n ā qeɫā=w hewrāmān-ī e=pāgewe nīšte=n=re  \\ 
+come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} go.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} \textsc{dem}.dist castle\textsc{.f}=\textsc{ez}.gen \textsc{pn}-\textsc{obl}\textsc{.m} in=there sit.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=\textsc{=post}  \\ 
+\glt `He came [here and] went to the citadel of Hawraman over there and settled there.'
+\z 
+ 
+\ea \label{dp4.10}
+\textit{hāminiš āmān milre} \\ 
+\gll hāmin=iš āmā=n milre  \\ 
+summer\textsc{.m}=\textsc{3sg} come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} on  \\ 
+\glt `Then it became summer. [Lit. Summer came upon him.]'
+\z 
+ 
+\ea \label{dp4.11}
+\textit{ḥewt sāɫē pāwe bīyen} \\ 
+\gll ḥewt sāɫe-ē pāwe bīye=n  \\ 
+seven year\textsc{.f}-\textsc{dir}.pl there be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `He was up there for seven years.'
+\z 
+ 
+\ea \label{dp4.12}
+\textit{ā wextī ī jemšēr šā, sibhān āġey čew deso bīyen} \\ 
+\gll ā wext ī ī jemšēr šā sibhān āġe-y č=ew des=o bīye=n  \\ 
+\textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m} \textsc{dem}.\textsc{prox} \textsc{pn} king\textsc{.m} \textsc{pn} \textsc{agha}\textsc{.m}-\textsc{obl}\textsc{.m} in=\textsc{dem}.dist hand\textsc{.m}=\textsc{=post} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `Jamsher Shah, eh … Sibhan Agha was on the other side [of the village].'
+\z 
+ 
+\ea \label{dp4.13}
+\textit{dāwāw āġeyīš kerdēne} \\ 
+\gll dāwā=w āġe-ī=š kerdē=ne  \\ 
+\textsc{dem}and\textsc{.f}=\textsc{ez}.gen \textsc{agha}\textsc{.m}-\textsc{nmlz}=\textsc{3sg} do.\textsc{pst}.\textsc{ptcp}\textsc{.f}=cop.\textsc{3sg}\textsc{.f}  \\ 
+\glt `He (i.e., Jamsher Shah) claimed governorship [over] Hawraman. '
+\z 
+ 
+\ea \label{dp4.14}
+\textit{ī memlikete desū āđīwe bīyen} \\ 
+\gll ī memliket=e des=ū āđī=we bīye=n  \\ 
+\textsc{dem}.\textsc{prox} country\textsc{.m}=\textsc{dem} hand\textsc{.m}=\textsc{ez}.gen \textsc{3sg}.\textsc{obl}\textsc{.m}=\textsc{=post} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `This region was in Sibhan Agha’s control: [Lit. This region was in his hands]'
+\z 
+ 
+\ea \label{dp4.15}
+\textit{āđ pādšāš bīyen} \\ 
+\gll āđ pādšā=š bīye=n  \\ 
+\textsc{3sg}.\textsc{dir}\textsc{.m} king\textsc{.m}=\textsc{3sg} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `He was the king.'
+\z 
+ 
+\ea \label{dp4.16}
+\textit{tā pādšā nebīyen āđ pādšāš bīyen} \\ 
+\gll tā pādšā ne-bīye=n āđ pādšā=š bīye=n  \\ 
+until king\textsc{.m} \textsc{neg-}be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} \textsc{3sg}.\textsc{dir}\textsc{.m} king\textsc{.m}=\textsc{3sg} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `He was its king until there were no kings.'
+\z 
+ 
+\ea \label{dp4.17}
+\textit{ā wextīyekey īđīč āmān dāwāw pādšāgerīš kerdēnew} \\ 
+\gll ā wext-ī-ekey īđ=īč āmā=n dāwā=w pādšāgerī=š kerdē=ne=w  \\ 
+\textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m}-def.\textsc{obl}\textsc{.m} \textsc{3sg}.\textsc{prox}.\textsc{dir}\textsc{.m}=\textsc{=add} come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} \textsc{dem}and\textsc{.f}=\textsc{ez}.gen kingship\textsc{.m}=\textsc{3sg} do.\textsc{pst}.\textsc{ptcp}\textsc{.f}=cop.\textsc{3sg}\textsc{.f}=and  \\ 
+\glt `He (i.e., Jamsher Shah) came [and] claimed kingship.'
+\z 
+ 
+\ea \label{dp4.18}
+\textit{gerekiš bīyen hewrāmānī dāwā kero, dāgīr kero} \\ 
+\gll gerek=iš bīye=n hewrāmān-ī dāwā ker-o dāgīr ker-o  \\ 
+necessary=\textsc{3sg} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} \textsc{pn}-\textsc{obl}\textsc{.m} \textsc{dem}and\textsc{.f} do.\textsc{prs}-\textsc{3sg} occupied do.\textsc{prs}-\textsc{3sg}  \\ 
+\glt `He wanted to occupy Hawraman.'
+\z 
+ 
+\ea \label{dp4.19}
+\textit{sibhān āġey neyān deso} \\ 
+\gll sibhān āġe-y ne-dā=n des=o  \\ 
+\textsc{pn} \textsc{agha}\textsc{.m}-\textsc{obl}\textsc{.m} \textsc{neg-}give.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} hand\textsc{.m}=\textsc{=post}  \\ 
+\glt `Sibhan Agha did not hand over the governorship to him,'
+\z 
+ 
+\ea \label{dp4.20}
+\textit{wāteniš, min zīndigīū bābiɫ bābīm e čē bīyen} \\ 
+\gll wāte=n=iš min zīndigī=ū bāb-iɫ bāb-ī=m e=čē bīye=n  \\ 
+say.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=\textsc{3sg} \textsc{1sg} life\textsc{.m}=\textsc{ez}.gen ancestor\textsc{.m}-of ancestor\textsc{.m}-\textsc{obl}\textsc{.m}=\textsc{1sg} in=here be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt ` saying, ‘I, my ancestors, have all lived here.'
+\z 
+ 
+\ea \label{dp4.21}
+\textit{ī bāxū bāxātū hewrāmānī, memliketū hewrāmānī, xeɫkū hewrāmānī ā wextīyekey ēme hukimřewiš bīyēnmē} \\ 
+\gll ī bāx=ū bāx-āt=ū hewrāmān-ī memliket=ū hewrāmān-ī xeɫk=ū hewrāmān ī ā wext-ī-ekey ēme hukimřew=iš bīyē=nmē  \\ 
+\textsc{dem}.\textsc{prox} garden\textsc{.m}=\textsc{ez}.gen garden\textsc{.m}-pl=\textsc{ez}.gen \textsc{pn}-\textsc{obl}\textsc{.m} country\textsc{.m}=\textsc{ez}.gen \textsc{pn}-\textsc{obl}\textsc{.m} people\textsc{.m}=\textsc{ez}.gen \textsc{pn} \textsc{dem}.\textsc{prox} \textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m}-def.\textsc{obl}\textsc{.m} \textsc{1pl} governor\textsc{.m}=\textsc{3sg} be.\textsc{ptcp}.pl=cop.\textsc{1pl}  \\ 
+\glt `We have ruled over\footnote{ Lit. We have been rulers.} these gardens of Hawraman, this region of Hawraman, [and] this people of Hawraman.'
+\z 
+ 
+\ea \label{dp4.22}
+\textit{ēme, min īney međo desū towe} \\ 
+\gll ēme min īney me-đe-o des=ū to=we  \\ 
+\textsc{1pl} \textsc{1sg} \textsc{dem}.\textsc{prox}.\textsc{obl}\textsc{.m}.\textsc{3sg} \textsc{neg-}give.\textsc{prs}-\textsc{3sg} hand\textsc{.m}=\textsc{ez}.gen \textsc{2sg}=\textsc{=post}  \\ 
+\glt `I will not hand over these to you.'
+\z 
+ 
+\ea \label{dp4.23}
+\textit{min īney dew deso towe ey wēm kowe bilū} \\ 
+\gll min īney de-w des=o to=we ey wē=m ko=we bi-l ū  \\ 
+\textsc{1sg} \textsc{dem}.\textsc{prox}.\textsc{obl}\textsc{.m}.\textsc{3sg} give.\textsc{prs}-\textsc{1sg} hand\textsc{.m}=\textsc{=post} \textsc{2sg}=\textsc{=post} \textsc{intj} \textsc{reflx}=\textsc{1sg} where=\textsc{=post} \textsc{sbjv}-go.\textsc{prs}-\textsc{1sg}  \\ 
+\glt `If I hand over these to you, where should I go myself?'
+\z 
+ 
+\ea \label{dp4.24}
+\textit{to luew čiko āmānī luewewe} \\ 
+\gll to lue w či=ko āmā=nī lue=wewe  \\ 
+\textsc{2sg} go.imp.\textsc{2sg}=from=where come.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{2sg} go.imp.\textsc{2sg}=\textsc{compl}  \\ 
+\glt `Go back to where you came from, go back!'
+\z 
+ 
+\ea \label{dp4.25}
+\textit{šūnū āneyre beynē e čā bīyenū} \\ 
+\gll šūn=ū āney=re beynē e=čā bīye=n=ū  \\ 
+after=\textsc{ez}.gen \textsc{dem}.dist.\textsc{obl}\textsc{.m}.\textsc{3sg}=\textsc{=post} a while in=there be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=and  \\ 
+\glt `Jamsher Shah was still there (i.e., in the citadel) afterwards.'
+\z 
+ 
+\ea \label{dp4.26}
+\textit{sibhān āġey ā wextīyekey āġe bīyen ḥīn bīyen} \\ 
+\gll sibhān āġe-y ā wext-ī-ekey āġe bīye=n ḥīn bīye=n  \\ 
+\textsc{pn} \textsc{agha}\textsc{.m}-\textsc{obl}\textsc{.m} \textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m}-def.\textsc{obl}\textsc{.m} \textsc{agha}\textsc{.m} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} fill be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `Sibhan Agha was thing gummy, the ruler.'
+\z 
+ 
+\ea \label{dp4.27}
+\textit{sibhān āġe čā āġegerīš kerdenū} \\ 
+\gll sibhān āġe čā āġegerī=š kerde=n=ū  \\ 
+\textsc{pn} \textsc{agha}\textsc{.m} there \textsc{governship}\textsc{.m}=\textsc{3sg} do.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=and  \\ 
+\glt `Sibhan Agha governed over there.'
+\z 
+ 
+\ea \label{dp4.28}
+\textit{ī māɫū miɫke hinū āđī bīyenū desšo bīyenū} \\ 
+\gll ī māɫ=ū miɫk=e hin=ū āđī bīye=n=ū des=š=o bīye=n=ū  \\ 
+\textsc{dem}.\textsc{prox} property\textsc{.m}=and property\textsc{.m}=\textsc{dem} \textsc{ez}.pron=\textsc{ez}.gen \textsc{3sg}.\textsc{obl}\textsc{.m} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=and hand\textsc{.m}=\textsc{3sg}=\textsc{=post} be.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=and  \\ 
+\glt `These lands and properties here were his. They were under his control.'
+\z 
+ 
+\ea \label{dp4.29}
+\textit{xeɫk lūān temenāš pey gērtenū} \\ 
+\gll xeɫk lūā=n temenā=š pey gērte=n=ū  \\ 
+people\textsc{.m} go.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} supplication\textsc{.m}=\textsc{3sg} for grab.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=and  \\ 
+\glt ``People went [and] pleaded with him [not to hand over power]''
+\z 
+ 
+\ea \label{dp4.30}
+\textit{šūnū āneyre wextē zāno hāmin āmāw gīriš kerd sibhān āġe milo āwekēū jemšēr āġey biřo, hesāryewe} \\ 
+\gll šūn=ū āney=re wext-ē zān-o hāmin āmā=w gīr=iš kerd sibhān āġe mi-l-o āwī-ekē=ū jemšēr āġe-y bi-ř-o hesār-y=ewe  \\ 
+after=\textsc{ez}.gen \textsc{dem}.dist.\textsc{obl}\textsc{.m}.\textsc{3sg}=\textsc{=post} time\textsc{.m}-\textsc{indf} know.\textsc{prs}-\textsc{3sg} summer\textsc{.m} come.\textsc{pst}.\textsc{3sg}=and hook\textsc{.m}=\textsc{3sg} do.\textsc{pst} \textsc{pn} \textsc{agha}\textsc{.m} \textsc{ind-}go.\textsc{prs}-\textsc{3sg} water\textsc{.f}-def.\textsc{obl}\textsc{.f}=and \textsc{pn} \textsc{agha}\textsc{.m}-\textsc{obl}\textsc{.m} \textsc{sbjv}-cut.\textsc{prs}-\textsc{3sg} pond\textsc{.m}-\textsc{obl}\textsc{.m}=\textsc{=post}  \\ 
+\glt `Then, as Sibhan Agha {Lit. he.} knew summer was coming [and] Jamsher Agha {Lit. he.} was stuck, Sibhan Agha went and cut off Jamsher Shah’s water supply [and led it to a] pond.'
+\z 
+ 
+\ea \label{dp4.31}
+\textit{be gunjēšā ārdēne} \\ 
+\gll be gunj-ē=šā ārdē=ne  \\ 
+by earthenware pipe\textsc{.m}-\textsc{dir}.pl=\textsc{3pl} bring.\textsc{pst}.\textsc{ptcp}\textsc{.f}=cop.\textsc{3sg}\textsc{.f}  \\ 
+\glt `They (i.e., Jamsher Shah’s’s men) carried [Jamsher Shah’s] water supply through earthenware pipes.'
+\z 
+ 
+\ea \label{dp4.32}
+\textit{āhekū gunjēw ārdēnešā ew dīmū qeɫē} \\ 
+\gll āhek=ū gunj-ē=w ārdē=ne=šā ew dīm=ū qeɫā-ē  \\ 
+lime\textsc{.m}=\textsc{ez}.gen earthenware pipe\textsc{.m}-\textsc{dir}.pl=and bring.\textsc{pst}.\textsc{ptcp}\textsc{.f}=cop.\textsc{3sg}\textsc{.f}=\textsc{3pl} \textsc{dem}.dist side\textsc{.m}=\textsc{ez}.gen castle\textsc{.f}-\textsc{obl}\textsc{.f}  \\ 
+\glt `They took the water to the other side of the citadel.'
+\z 
+ 
+\ea \label{dp4.33}
+\textit{e čā āwekēš biřo} \\ 
+\gll e=čā āwī-ekē=š biř-o  \\ 
+in=there water\textsc{.f}-def.\textsc{obl}\textsc{.f}=\textsc{3sg} cut.\textsc{prs}-\textsc{3sg}  \\ 
+\glt `There, he (i.e., Sibhan Agha) cut off his (i.e., Jamsher Shah’s) water supply.'
+\z 
+ 
+\ea \label{dp4.34}
+\textit{āwekē biřo milonū wer werwe māro be nīrūekeyš de koɫē penj koɫē gi řoē} \\ 
+\gll āwī-ekē biř-o mi-l-on=ū wer werwe m-ār-o be nīrū-ekey=š de koɫ-ē penj koɫ-ē gi řo-ē  \\ 
+water\textsc{.f}-def.\textsc{obl}\textsc{.f} cut.\textsc{prs}-\textsc{3sg} \textsc{ind-}go.\textsc{prs}-\textsc{3sg}=and out snow\textsc{.f} \textsc{ind-}bring.\textsc{prs}-\textsc{3sg} by-def.\textsc{obl}\textsc{.m}=\textsc{3sg} ten load/shoulder\textsc{.m}-\textsc{dir}.pl five load/shoulder\textsc{.m}-\textsc{dir}.pl each day\textsc{.m}-\textsc{dir}.pl  \\ 
+\glt `e cut off the water supply. He (i.e., Jamsher Shah) fetched snow, five or ten loads daily, using his men.'
+\z 
+ 
+\ea \label{dp4.35}
+\textit{īzāfeyš wizo pā sextre māčāš qeɫāw hewrāmānī} \\ 
+\gll īzāfe-y=š wiz-o p=ā sext=re m-āč-ā=š qeɫā=w hewrāmān-ī  \\ 
+addition\textsc{.m}-\textsc{obl}\textsc{.m}=\textsc{3sg} throw.\textsc{prs}-\textsc{3sg} by=\textsc{dem}.dist mountain\textsc{.m}=\textsc{=post} \textsc{ind-}say.\textsc{prs}-\textsc{3pl}=\textsc{3sg} castle\textsc{.f}=\textsc{ez}.gen \textsc{pn}-\textsc{obl}\textsc{.m}  \\ 
+\glt `e would throw whatever was extra [from the snow] at that hard-to-access mountain called the citadel of Hawraman.'
+\z 
+ 
+\ea \label{dp4.36}
+\textit{wextē werwekē kem pā kotāy māro pey kemī milo hurgēro hurmēzo hur čolekēwe gēro minyo bāxeɫēš} \\ 
+\gll wext-ē werwe-ekē kem p=ā kotā-y m-ār-o pey kem-ī mi-l-o hur-gēr-o hur-m-ēz-o hur čoleke-ē-ewe gēr o mi-nye-o bāxeɫē=š  \\ 
+time\textsc{.m}-\textsc{indf} snow\textsc{.f}-def.\textsc{obl}\textsc{.f} little by=\textsc{dem}.dist short-\textsc{obl}\textsc{.m} \textsc{ind-}bring.\textsc{prs}-\textsc{3sg} for little-\textsc{obl}\textsc{.m} \textsc{ind-}go.\textsc{prs}-\textsc{3sg} \textsc{pvb}-take.\textsc{prs}-\textsc{3sg} \textsc{pvb}-\textsc{ind-}rise.\textsc{prs}-\textsc{3sg} \textsc{povb} sparrow\textsc{.f}-\textsc{obl}\textsc{.f}-\textsc{indf} take.\textsc{prs} \textsc{dem}.dist \textsc{ind-}put.\textsc{prs}-\textsc{3sg} embrace.\textsc{obl}\textsc{.f}=\textsc{3sg}  \\ 
+\glt `When the little snow (that was left) was about to disappear [from the mountains], Jamsher Shah\footnote{Lit. he.} went [and] grabbed a sparrow [and] put it on his chest [under his clothing]'
+\z 
+ 
+\ea \label{dp4.37}
+\textit{be xātirū īney qesem wero qesemiš negino} \\ 
+\gll be xātir=ū īney qesem wer-o qesem=iš ne-gin-o  \\ 
+by sake\textsc{.m}=\textsc{ez}.gen \textsc{dem}.\textsc{prox}.\textsc{obl}\textsc{.m}.\textsc{3sg} oath\textsc{.m} eat.\textsc{prs}-\textsc{3sg} oath\textsc{.m}=\textsc{3sg} \textsc{neg-}-\textsc{3sg}  \\ 
+\glt `He wanted to swear an oath using the sparrow. He did not want to swear falsely on himself.'
+\z 
+ 
+\ea \label{dp4.38}
+\textit{wāteniš, min tā diɫī ī gīyāne īnā qefesū sīney minne diɫī beyim čāđī nīyā} \\ 
+\gll wāte=n=iš min tā diɫ=ī ī gīyān=e īnā=ā qefes=ū sīne=y min=ne diɫ=ī bey=im č=āđī nīye-=ā  \\ 
+say.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}=\textsc{3sg} \textsc{1sg} until heart\textsc{.m}=\textsc{ez}.\textsc{attr} \textsc{dem}.\textsc{prox} soul\textsc{.m}=\textsc{dem} \textsc{deic}=cop.\textsc{3sg}\textsc{.m} cage\textsc{.m}=\textsc{ez}.gen chest\textsc{.m}=\textsc{ez}.\textsc{attr} \textsc{1sg}=\textsc{=post} heart\textsc{.m}=\textsc{ez}.\textsc{attr} bad=\textsc{1sg} from=\textsc{3sg}.\textsc{obl}\textsc{.m} neg.exist=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `He said, ‘I swear to the soul that is in my chest, I am not angry with him\footnote{Lit. My bad heart is not at him} (i.e., Sibhan Agha)'
+\z 
+ 
+\ea \label{dp4.39}
+\textit{bē bā nīšmēre seḷāhū wēmā kermē} \\ 
+\gll bē bā nīš-mē=re seḷāh=ū wē=mā ker-mē  \\ 
+come.imp.\textsc{2sg} \textsc{hort} sit.\textsc{prs}-\textsc{1pl}=\textsc{=post} solution\textsc{.m}=\textsc{ez}.gen \textsc{reflx}=\textsc{1pl} do.\textsc{prs}-\textsc{1pl}  \\ 
+\glt `[He said to Sibhan Agha], ‘Let us sit together and come to a solution.’'
+\z 
+ 
+\ea \label{dp4.40}
+\textit{ewīč nimē māčo, nexeyr nimewnew mitmānim nīyā penet.} \\ 
+\gll ew=īč ni-m-ē m-āč-o nexeyr ni-m-e-wne=w mitmān=im nīye-=ā pene=t  \\ 
+\textsc{3sg}.\textsc{dir}\textsc{.m}=\textsc{=add} \textsc{neg-}\textsc{ind-}come.\textsc{prs}.\textsc{3sg} \textsc{ind-}say.\textsc{prs}-\textsc{3sg} no \textsc{neg-}\textsc{ind-}come.\textsc{prs}-\textsc{1sg}=and trust\textsc{.m}=\textsc{1sg} neg.exist=cop.\textsc{3sg}\textsc{.m} to=\textsc{2sg}  \\ 
+\glt ` Sibhan Agha {Lit. He.} did not go [to Jamsher Shah], saying, ‘No, I won’t come [to you]; I don’t trust you.’'
+\z 
+ 
+\ea \label{dp4.41}
+\textit{desgīrim kero āđ nūrīš firen} \\ 
+\gll desgīr=im ker-o āđ nūrī=š fire=n  \\ 
+hand.\textsc{cufffed}=\textsc{1sg} do.\textsc{prs}-\textsc{3sg} \textsc{3sg}.\textsc{dir}\textsc{.m} force\textsc{.m}=\textsc{3sg} many=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt `He is going to arrest me. He has many men.'
+\z 
+ 
+\ea \label{dp4.42}
+\textit{māčo, ne bē!’} \\ 
+\gll m-āč-o ne bē  \\ 
+\textsc{ind-}say.\textsc{prs}-\textsc{3sg} no come.imp.\textsc{2sg}  \\ 
+\glt `Jamsher Shah\footnote{Lit. He} said, ‘No [I won’t arrest you]. Come!’'
+\z 
+ 
+\ea \label{dp4.43}
+\textit{lue wāče bē!’} \\ 
+\gll lue wāč-e bē  \\ 
+go.imp.\textsc{2sg} say.\textsc{prs}.\textsc{sbjv}-\textsc{2sg}.imp come.imp.\textsc{2sg}  \\ 
+\glt `[He said to his men], ‘Go [and] tell him to come!’'
+\z 
+ 
+\ea \label{dp4.44}
+\textit{wāt, bē hem mēmān bo nīmeřo hem bā qisē kermē} \\ 
+\gll wāt bē hem mēmān b-o nīmeřo hem b-ā qisē-ē ker-mē  \\ 
+say.\textsc{pst} come.imp.\textsc{2sg} both guest\textsc{.m} be.\textsc{prs}-\textsc{3sg} noon both be.\textsc{prs}-\textsc{3pl} talk\textsc{.f}-\textsc{dir}.pl do.\textsc{prs}-\textsc{1pl}  \\ 
+\glt `He said, ‘Come and be our guest for lunch, and we will discuss the matter.’'
+\z 
+ 
+\ea \label{dp4.45}
+\textit{āđ kārū wēšū min hinū wēm} \\ 
+\gll āđ kār=ū wē=š=ū min hin=ū wē=m  \\ 
+\textsc{3sg}.\textsc{dir}\textsc{.m} task\textsc{.m}=\textsc{ez}.gen \textsc{reflx}=\textsc{3sg}=\textsc{ez}.gen \textsc{1sg} \textsc{ez}.pron=\textsc{ez}.gen \textsc{reflx}=\textsc{1sg}  \\ 
+\glt `Then, he goes his way, and I go mine.'
+\z 
+ 
+\ea \label{dp4.46}
+\textit{ā wextīyekey wextē mēnē ā wextī herčē qisē kerā, herčē behsē kerā herčē hesābē kerā, qēxāw hewrāmānī herčē bā ā wextī isɫāhšā mebo} \\ 
+\gll ā wext-ī-ekey wext-ē m-ē-nē ā wext ī herčē qisē-ē ker-ā herčē behse-ē ker-ā herčē hesāb-ē ker-ā qēxā=w hewrāmān-ī herčē b-ā ā wext ī isɫāh=šā me-b-o  \\ 
+\textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m}-def.\textsc{obl}\textsc{.m} time\textsc{.m}-\textsc{indf} \textsc{ind-}come.\textsc{prs}-\textsc{3pl} \textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m} however_much talk\textsc{.f}-\textsc{dir}.pl do.\textsc{prs}-\textsc{3pl} however_much discussion\textsc{.f}-\textsc{dir}.pl do.\textsc{prs}-\textsc{3pl} however_much account\textsc{.m}-\textsc{dir}.pl do.\textsc{prs}-\textsc{3pl} chieftain\textsc{.m}=\textsc{ez}.gen \textsc{pn}-\textsc{obl}\textsc{.m} however_much be.\textsc{prs}-\textsc{3pl} \textsc{dem}.dist time\textsc{.m}-\textsc{obl}\textsc{.m} amendment\textsc{.m}=\textsc{3pl} \textsc{neg-}be.\textsc{prs}-\textsc{3sg}  \\ 
+\glt `Then Sibhan Agha and his men came [to Jamsher Shah]. No matter how much the headmen of Hawraman talked [to both of them], discussed the issue, and tried to mediate, they (i.e., Jamsher Shah and Sibhan Agha) disagreed.'
+\z 
+ 
+\ea \label{dp4.47}
+\textit{isɫāhšā mebonew nemo čolekekē weriš miđo} \\ 
+\gll isɫāh=šā me-b-one=w nem-o čoleke-ekē wer=iš mi-đe-o  \\ 
+amendment\textsc{.m}=\textsc{3pl} \textsc{neg-}be.\textsc{prs}-\textsc{3sg}=and lift.\textsc{prs}-\textsc{3sg} sparrow\textsc{.f}-def.\textsc{obl}\textsc{.f} out=\textsc{3sg} \textsc{ind-}give.\textsc{prs}-\textsc{3sg}  \\ 
+\glt `They disagreed. Jamsher Shah {Lit. He.} took the sparrow [and] let it go.'
+\z 
+ 
+\ea \label{dp4.48}
+\textit{māčo, dey min īney pīneym wāten} \\ 
+\gll m-āč-o dey min īney p=īney=m wāte=n  \\ 
+\textsc{ind-}say.\textsc{prs}-\textsc{3sg} disc.\textsc{ptcl} \textsc{1sg} \textsc{dem}.\textsc{prox}.\textsc{obl}\textsc{.m}.\textsc{3sg} for=\textsc{dem}.\textsc{prox}.\textsc{obl}\textsc{.m}.\textsc{3sg}=\textsc{1sg} say.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m}  \\ 
+\glt ` Jamsher Shah said [to Sibhan Agha], ‘When I swore an oath, I swore on this sparrow;'
+\z 
+ 
+\ea \label{dp4.49}
+\textit{ī gīyānū qefesew sīney minne īnen āđe lūā} \\ 
+\gll ī gīyān=ū qefese=w sīne=y min=ne īne=n āđe lūā  \\ 
+\textsc{dem}.\textsc{prox} soul\textsc{.m}=\textsc{ez}.gen cage\textsc{.m}=and chest\textsc{.m}=\textsc{ez}.\textsc{attr} \textsc{1sg}=\textsc{=post}=cop.\textsc{3sg}\textsc{.m} \textsc{3sg}.\textsc{dir}\textsc{.f} go.\textsc{pst}  \\ 
+\glt ` The soul in my rib cage [that I swore an oath on] was this [sparrow]. It [just] flew away.'
+\z 
+ 
+\ea \label{dp4.50}
+\textit{ānen mirīčēɫēm wer dān, to xeyrū min siɫāmet} \\ 
+\gll āne=n mirīčēɫe-ē=m wer dā=n to xeyr=ū min siɫāmet  \\ 
+\textsc{dem}.dist.\textsc{dir}\textsc{.m}.\textsc{3sg}=cop.\textsc{3sg}\textsc{.m} small_bird\textsc{.m}-\textsc{indf}=\textsc{1sg} out give.\textsc{pst}.\textsc{ptcp}\textsc{.m}=cop.\textsc{3sg}\textsc{.m} \textsc{2sg} goodness\textsc{.m}=\textsc{ez}.gen \textsc{1sg} healthy  \\ 
+\glt `’I have let the bird go away. Now, you follow your own life, and I follow mine!{Lit. Well-being for you and health for me.}’'
+\z 
+ 
+\ea \label{dp4.51}
+\textit{dā dey dewršā gērdē bā deġāɫet kerū} \\ 
+\gll dā dey dewr=šā gēr-dē bā deġāɫet ker-ū  \\ 
+\textsc{hort} disc.\textsc{ptcl} round=\textsc{3pl} take.\textsc{prs}-\textsc{2pl} \textsc{hort} intervention\textsc{.m} do.\textsc{prs}-\textsc{1sg}  \\ 
+\glt ` Jamsher Shah\footnote{Lit. He.} said [to his men], ‘Encircle them so that I can defeat [Sibhan Agha].'
+\z 
+ 
+\ea \label{dp4.52}
+\textit{dewršā gērā deġāɫet kero} \\ 
+\gll dewr=šā gēr-ā deġāɫet ker-o  \\ 
+round=\textsc{3pl} take.\textsc{prs}-\textsc{3pl} intervention\textsc{.m} do.\textsc{prs}-\textsc{3sg}  \\ 
+\glt `They encircled them [and] he defeated him (i.e., Sibhan Agha)'
+\z 
+ 
+\ea \label{dp4.53}
+\textit{āđ bowe pādšā tā zemānēwe nāđir šā mē serū dewrī} \\ 
+\gll āđ b-o=we pādšā tā zemān-ē-ewe nāđir šā m-ē ser=ū dewr-ī  \\ 
+\textsc{3sg}.\textsc{dir}\textsc{.m} be.\textsc{prs}-\textsc{3sg}=\textsc{compl} king\textsc{.m} until time\textsc{.m}-\textsc{indf}-\textsc{indf} \textsc{pn} king\textsc{.m} \textsc{ind-}come.\textsc{prs}.\textsc{3sg} on=\textsc{ez}.gen period\textsc{.m}-\textsc{obl}\textsc{.m}  \\ 
+\glt `He (i.e., Jamsher Shah) became the king up until the time of Nader Shah.'
+\z 
+ 
+\ea \label{dp4.54}
+\textit{nāđir šā mē serū dewrī her wī berkenārē kero} \\ 
+\gll nāđir šā m-ē ser=ū dewr-ī her wē-ī berkenār-ē ker-o  \\ 
+\textsc{pn} king\textsc{.m} \textsc{ind-}come.\textsc{prs}.\textsc{3sg} on=\textsc{ez}.gen period\textsc{.m}-\textsc{obl}\textsc{.m} both two-\textsc{obl}\textsc{.m} ousted-\textsc{dir}.pl do.\textsc{prs}-\textsc{3sg}  \\ 
+\glt `Nader Shah came to power [and] expelled both [Jamsher Shah and Sibhan Agha]'
+\z 
+ 
+\ea \label{dp4.55}
+\textit{to xeyrū min siɫāmet} \\ 
+\gll to xeyr=ū min siɫāmet  \\ 
+\textsc{2sg} goodness\textsc{.m}=\textsc{ez}.gen \textsc{1sg} healthy  \\ 
+\glt `Follow your own life, and I will follow mine.'
+\z 
+ 
+\ea \label{dp4.56}
+\textit{hezār seɫewāt serū peyġemerī} \\ 
+\gll hezār seɫewāt ser=ū peyġemer-ī  \\ 
+thousand praise\textsc{.m} on=\textsc{ez}.gen prophet\textsc{.m}-\textsc{obl}\textsc{.m}  \\ 
+\glt `A thousand peace [be] upon the prophet.'
+\z 
+ 

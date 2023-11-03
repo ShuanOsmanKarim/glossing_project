@@ -137,7 +137,9 @@ for i in range(len(defList)):
 for l in defList:
     ent = ""
     for key1, items1 in dicText.items():
-        if l in key1:
+        # if re.match(l, key1):
+        if re.search(r"(?<![a-z])" + l + r"(?![a-z])", key1):
+        # if l in key1:
             try:
                 for key2, items2 in items1.items():
                     # keyClean = re.sub("}.", ".", key1)
@@ -148,7 +150,9 @@ for l in defList:
                     key2 = re.sub("ā-ē", "(ā)-ē", key2)
                     key2 = re.sub("e-ā", "(e)-ā", key2)
                     key2 = re.sub("ā-e", "ā-(e)", key2)
-                    key2 = re.sub("ē-e", "ē-(e)", key2)
+                    key2 = re.sub("e-ē", "(e)-ē", key2)
+                    key2 = re.sub("ē-e", "ē-(e)", key2) #
+                    key2 = re.sub("e-e", "e-(e)", key2) #
                     ent += "\\textit{" + key2 + "} [" + key1 + "] "
                     ent += items2[0] +"; "
                     # print(ent)
